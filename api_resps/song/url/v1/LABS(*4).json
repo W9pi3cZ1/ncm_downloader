@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "id": 3410966242,
+      "url": "http://m701.music.126.net/20260925184427/714159ee9e03c2b800a3c08ed2aa6b7b/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/81759280879/4d9e/0797/a77c/d297f0a0dd5d8e4340820e41c894552d.mp3?vuutv=Hk5wrvT3ms0DhB71McOF9JeTrDNzcyF6ktholFltKlzkW3F/xoQ01r6S/oULuc9tudFdOpXD6L022iBxeNcffKvXXZYsS9EdBnYXtFUrLg8puHrmVYXaaGZPOKf5Pb3zZGqL80d1umYohOzhZc+DjLkdUEpMmwI+KHKcR5bc40E=",
+      "br": 320002,
+      "size": 7887978,
+      "md5": "d297f0a0dd5d8e4340820e41c894552d",
+      "code": 200,
+      "expi": 1200,
+      "type": "mp3",
+      "gain": -10.85,
+      "peak": 1,
+      "closedGain": -6,
+      "closedPeak": 1,
+      "fee": 8,
+      "uf": null,
+      "payed": 0,
+      "flag": 1802501,
+      "canExtend": false,
+      "freeTrialInfo": null,
+      "level": "exhigh",
+      "encodeType": "mp3",
+      "channelLayout": null,
+      "freeTrialPrivilege": {
+        "resConsumable": false,
+        "userConsumable": false,
+        "listenType": null,
+        "cannotListenReason": null,
+        "playReason": null,
+        "freeLimitTagType": null
+      },
+      "freeTimeTrialPrivilege": {
+        "resConsumable": false,
+        "userConsumable": false,
+        "type": 0,
+        "remainTime": 0
+      },
+      "urlSource": 0,
+      "rightSource": 0,
+      "podcastCtrp": null,
+      "effectTypes": null,
+      "time": 197142,
+      "message": null,
+      "levelConfuse": null,
+      "musicId": "16946897679",
+      "accompany": null,
+      "sr": 44100,
+      "auEff": null,
+      "immerseType": null,
+      "beatType": 0
+    }
+  ],
+  "code": 200
+}

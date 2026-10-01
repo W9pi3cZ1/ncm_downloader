@@ -1,0 +1,166 @@
+{
+    "songs": [
+        {
+            "name": "Dance All Night",
+            "mainTitle": null,
+            "additionalTitle": null,
+            "id": 2751640245,
+            "pst": 0,
+            "t": 0,
+            "ar": [
+                {
+                    "id": 12047297,
+                    "name": "ARForest",
+                    "tns": [],
+                    "alias": []
+                }
+            ],
+            "alia": [],
+            "pop": 25,
+            "st": 0,
+            "rt": "",
+            "fee": 8,
+            "v": 43,
+            "crbt": null,
+            "cf": "",
+            "al": {
+                "id": 286986836,
+                "name": "AD:HOUSE 13",
+                "picUrl": "https://p4.music.126.net/fXrgDzVdt7shPs2kASP3vQ==/109951172090048622.jpg",
+                "tns": [],
+                "pic_str": "109951172090048622",
+                "pic": 109951172090048620
+            },
+            "dt": 203997,
+            "h": {
+                "br": 320002,
+                "fid": 0,
+                "size": 8162787,
+                "vd": -44853,
+                "sr": 44100
+            },
+            "m": {
+                "br": 192002,
+                "fid": 0,
+                "size": 4897689,
+                "vd": -42285,
+                "sr": 44100
+            },
+            "l": {
+                "br": 128002,
+                "fid": 0,
+                "size": 3265141,
+                "vd": -40598,
+                "sr": 44100
+            },
+            "sq": {
+                "br": 958803,
+                "fid": 0,
+                "size": 24452895,
+                "vd": -44838,
+                "sr": 44100
+            },
+            "hr": null,
+            "a": null,
+            "cd": "01",
+            "no": 9,
+            "rtUrl": null,
+            "ftype": 0,
+            "rtUrls": [],
+            "djId": 0,
+            "copyright": 1,
+            "s_id": 0,
+            "mark": 17180139520,
+            "originCoverType": 1,
+            "originSongSimpleData": null,
+            "tagPicList": null,
+            "resourceState": true,
+            "version": 9,
+            "songJumpInfo": null,
+            "entertainmentTags": null,
+            "awardTags": null,
+            "displayTags": null,
+            "artistClassics": false,
+            "markTags": [],
+            "songFeature": null,
+            "single": 0,
+            "noCopyrightRcmd": null,
+            "mv": 0,
+            "rtype": 0,
+            "rurl": null,
+            "mst": 9,
+            "cp": 1418220,
+            "publishTime": 1755360000000
+        }
+    ],
+    "privileges": [
+        {
+            "id": 2751640245,
+            "fee": 8,
+            "payed": 0,
+            "st": 0,
+            "pl": 320000,
+            "dl": 0,
+            "sp": 7,
+            "cp": 1,
+            "subp": 1,
+            "cs": false,
+            "maxbr": 999000,
+            "fl": 320000,
+            "toast": false,
+            "flag": 1540356,
+            "preSell": false,
+            "playMaxbr": 999000,
+            "downloadMaxbr": 999000,
+            "maxBrLevel": "jymaster",
+            "playMaxBrLevel": "jymaster",
+            "downloadMaxBrLevel": "jymaster",
+            "plLevel": "exhigh",
+            "dlLevel": "none",
+            "flLevel": "exhigh",
+            "rscl": null,
+            "freeTrialPrivilege": {
+                "resConsumable": false,
+                "userConsumable": false,
+                "listenType": null,
+                "cannotListenReason": null,
+                "playReason": null,
+                "freeLimitTagType": null
+            },
+            "rightSource": 0,
+            "chargeInfoList": [
+                {
+                    "rate": 128000,
+                    "chargeUrl": null,
+                    "chargeMessage": null,
+                    "chargeType": 0
+                },
+                {
+                    "rate": 192000,
+                    "chargeUrl": null,
+                    "chargeMessage": null,
+                    "chargeType": 0
+                },
+                {
+                    "rate": 320000,
+                    "chargeUrl": null,
+                    "chargeMessage": null,
+                    "chargeType": 0
+                },
+                {
+                    "rate": 999000,
+                    "chargeUrl": null,
+                    "chargeMessage": null,
+                    "chargeType": 1
+                }
+            ],
+            "code": 0,
+            "message": null,
+            "plLevels": null,
+            "dlLevels": null,
+            "ignoreCache": null,
+            "bd": null
+        }
+    ],
+    "code": 200
+}

@@ -1,0 +1,190 @@
+{
+  "songs": [
+    {
+      "name": "空気系 (feat. 初音ミク)",
+      "mainTitle": "空気系 ",
+      "additionalTitle": "(feat. 初音ミク)",
+      "id": 3422178442,
+      "pst": 0,
+      "t": 0,
+      "ar": [
+        {
+          "id": 50596562,
+          "name": "KAIRUI",
+          "tns": [],
+          "alias": []
+        },
+        {
+          "id": 47048984,
+          "name": "フロクロ",
+          "tns": [],
+          "alias": []
+        },
+        {
+          "id": 159692,
+          "name": "初音ミク",
+          "tns": [],
+          "alias": []
+        }
+      ],
+      "alia": [],
+      "pop": 50,
+      "st": 0,
+      "rt": "",
+      "fee": 8,
+      "v": 38,
+      "crbt": null,
+      "cf": "",
+      "al": {
+        "id": 392934580,
+        "name": "空気系 (feat. 初音ミク)",
+        "picUrl": "https://p3.music.126.net/M-LO5mXGVTX5ysDGhdHudA==/109951173764051884.jpg",
+        "tns": [],
+        "pic_str": "109951173764051884",
+        "pic": 109951173764051890
+      },
+      "dt": 142588,
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 5706285,
+        "vd": -61343,
+        "sr": 48000
+      },
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3423789,
+        "vd": -58815,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2282541,
+        "vd": -57250,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1058972,
+        "fid": 0,
+        "size": 18877277,
+        "vd": -61334,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 3036595,
+        "fid": 0,
+        "size": 54125511,
+        "vd": -61347,
+        "sr": 96000
+      },
+      "a": null,
+      "cd": "01",
+      "no": 1,
+      "rtUrl": null,
+      "ftype": 0,
+      "rtUrls": [],
+      "djId": 0,
+      "copyright": 1,
+      "s_id": 0,
+      "mark": 537141248,
+      "originCoverType": 0,
+      "originSongSimpleData": null,
+      "tagPicList": null,
+      "resourceState": true,
+      "version": 4,
+      "songJumpInfo": null,
+      "entertainmentTags": null,
+      "awardTags": null,
+      "displayTags": null,
+      "artistClassics": false,
+      "markTags": [],
+      "songFeature": null,
+      "single": 0,
+      "noCopyrightRcmd": null,
+      "mv": 0,
+      "mst": 9,
+      "cp": 1418220,
+      "rtype": 0,
+      "rurl": null,
+      "publishTime": 1787673600000
+    }
+  ],
+  "privileges": [
+    {
+      "id": 3422178442,
+      "fee": 8,
+      "payed": 0,
+      "st": 0,
+      "pl": 320000,
+      "dl": 0,
+      "sp": 7,
+      "cp": 1,
+      "subp": 1,
+      "cs": false,
+      "maxbr": 999000,
+      "fl": 320000,
+      "toast": false,
+      "flag": 1544452,
+      "preSell": false,
+      "playMaxbr": 999000,
+      "downloadMaxbr": 999000,
+      "maxBrLevel": "jymaster",
+      "playMaxBrLevel": "jymaster",
+      "downloadMaxBrLevel": "jymaster",
+      "plLevel": "exhigh",
+      "dlLevel": "none",
+      "flLevel": "exhigh",
+      "rscl": null,
+      "freeTrialPrivilege": {
+        "resConsumable": false,
+        "userConsumable": false,
+        "listenType": null,
+        "cannotListenReason": null,
+        "playReason": null,
+        "freeLimitTagType": null
+      },
+      "rightSource": 0,
+      "chargeInfoList": [
+        {
+          "rate": 128000,
+          "chargeUrl": null,
+          "chargeMessage": null,
+          "chargeType": 0
+        },
+        {
+          "rate": 192000,
+          "chargeUrl": null,
+          "chargeMessage": null,
+          "chargeType": 0
+        },
+        {
+          "rate": 320000,
+          "chargeUrl": null,
+          "chargeMessage": null,
+          "chargeType": 0
+        },
+        {
+          "rate": 999000,
+          "chargeUrl": null,
+          "chargeMessage": null,
+          "chargeType": 1
+        },
+        {
+          "rate": 1999000,
+          "chargeUrl": null,
+          "chargeMessage": null,
+          "chargeType": 1
+        }
+      ],
+      "code": 0,
+      "message": null,
+      "plLevels": null,
+      "dlLevels": null,
+      "ignoreCache": null,
+      "bd": null
+    }
+  ],
+  "code": 200
+}

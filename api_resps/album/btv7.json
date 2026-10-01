@@ -1,0 +1,5898 @@
+{
+  "resourceState": true,
+  "songs": [
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 49491592, "name": "unfoldingskies" },
+        { "id": 59793908, "name": "trashyboi" },
+        { "id": 32499239, "name": "Tribbec" },
+        { "id": 33373828, "name": "Ferdinand" },
+        { "id": 126961475, "name": "N3RDᶻLAB" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p4.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 3,
+      "dt": 197142,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 15,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 7887978,
+        "vd": -68500,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 914950,
+        "fid": 0,
+        "size": 22550646,
+        "vd": -68498,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 3155217,
+        "vd": -64323,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 4732804,
+        "vd": -65954,
+        "sr": 44100
+      },
+      "mark": 270464,
+      "name": "LABS(*4)",
+      "id": 3410966242,
+      "privilege": {
+        "id": 3410966242,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1278213,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "jymaster",
+        "playMaxBrLevel": "jymaster",
+        "downloadMaxBrLevel": "jymaster",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 0, "name": "jtpck" },
+        { "id": 0, "name": "REQUiRE" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p4.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 2,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 2,
+      "dt": 187282,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 5,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7494052,
+        "vd": -100213,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1191811,
+        "fid": 0,
+        "size": 27904107,
+        "vd": -100211,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2997647,
+        "vd": -96438,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4496449,
+        "vd": -97815,
+        "sr": 44100
+      },
+      "mark": 270464,
+      "name": "the store closes in 3 minutes",
+      "id": 3410966243,
+      "privilege": {
+        "id": 3410966243,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1278213,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "jymaster",
+        "playMaxBrLevel": "jymaster",
+        "downloadMaxBrLevel": "jymaster",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 94502618, "name": "willowind" },
+        { "id": 32544901, "name": "Disphing" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p4.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 3,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 2,
+      "dt": 175384,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 5,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7017578,
+        "vd": -95615,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1159478,
+        "fid": 0,
+        "size": 25422590,
+        "vd": -95792,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2807057,
+        "vd": -91539,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4210564,
+        "vd": -93164,
+        "sr": 44100
+      },
+      "mark": 1319040,
+      "name": "kill me",
+      "id": 3410966244,
+      "privilege": {
+        "id": 3410966244,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1278213,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "jymaster",
+        "playMaxBrLevel": "jymaster",
+        "downloadMaxBrLevel": "jymaster",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 126962499, "name": "awoKen" },
+        { "id": 57783644, "name": "Aumhina" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p3.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 4,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 1,
+      "dt": 154153,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 5,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6169121,
+        "vd": -60953,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1011446,
+        "fid": 0,
+        "size": 19492659,
+        "vd": -60913,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2467675,
+        "vd": -56881,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3701490,
+        "vd": -58426,
+        "sr": 44100
+      },
+      "mark": 270464,
+      "name": "toothache!",
+      "id": 3410967095,
+      "privilege": {
+        "id": 3410967095,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1278213,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "jymaster",
+        "playMaxBrLevel": "jymaster",
+        "downloadMaxBrLevel": "jymaster",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 123323930, "name": "maya" },
+        { "id": 48328624, "name": "Rozark" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p4.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 5,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 1,
+      "dt": 214676,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 8590150,
+        "vd": -90927,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1080003,
+        "fid": 0,
+        "size": 28985371,
+        "vd": -91479,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3436086,
+        "vd": -86925,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5154107,
+        "vd": -88461,
+        "sr": 44100
+      },
+      "mark": 270464,
+      "name": "aquamarine",
+      "id": 3410967096,
+      "privilege": {
+        "id": 3410967096,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1278213,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "jymaster",
+        "playMaxBrLevel": "jymaster",
+        "downloadMaxBrLevel": "jymaster",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 61931520, "name": "koalha" },
+        { "id": 0, "name": "Uplocks" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p4.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 6,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 2,
+      "dt": 163846,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 15,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6556778,
+        "vd": -67454,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1043172,
+        "fid": 0,
+        "size": 21367999,
+        "vd": -67458,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2622737,
+        "vd": -63647,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3934084,
+        "vd": -64999,
+        "sr": 44100
+      },
+      "mark": 270464,
+      "name": "MANIA",
+      "id": 3410966245,
+      "privilege": {
+        "id": 3410966245,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1278213,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "jymaster",
+        "playMaxBrLevel": "jymaster",
+        "downloadMaxBrLevel": "jymaster",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 60256036, "name": "euphee" },
+        { "id": 56971767, "name": "Vistuh" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p4.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 7,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 2,
+      "dt": 156190,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 5,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6250623,
+        "vd": -80005,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 916706,
+        "fid": 0,
+        "size": 17900508,
+        "vd": -80500,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2500275,
+        "vd": -75330,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3750391,
+        "vd": -77275,
+        "sr": 44100
+      },
+      "mark": 270464,
+      "name": "SPLuRT!",
+      "id": 3410967097,
+      "privilege": {
+        "id": 3410967097,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1278213,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "jymaster",
+        "playMaxBrLevel": "jymaster",
+        "downloadMaxBrLevel": "jymaster",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 52173771, "name": "vai5000" },
+        { "id": 35121629, "name": "thayerperiod" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p3.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 8,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 2,
+      "dt": 174320,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 5,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6975782,
+        "vd": -73389,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 888444,
+        "fid": 0,
+        "size": 19362429,
+        "vd": -73373,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2790339,
+        "vd": -69441,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4185487,
+        "vd": -70880,
+        "sr": 44100
+      },
+      "mark": 270464,
+      "name": "BTTR+TGTR",
+      "id": 3410966246,
+      "privilege": {
+        "id": 3410966246,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1278213,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "jymaster",
+        "playMaxBrLevel": "jymaster",
+        "downloadMaxBrLevel": "jymaster",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 51888165, "name": "ARIA VEIL" },
+        { "id": 54019606, "name": "aephyn" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p3.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 9,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 2,
+      "dt": 271700,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 10871162,
+        "vd": -93591,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1125461,
+        "fid": 0,
+        "size": 38228469,
+        "vd": -93801,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 4348491,
+        "vd": -89517,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 6522715,
+        "vd": -91091,
+        "sr": 44100
+      },
+      "mark": 1319040,
+      "name": "AFTERBURN",
+      "id": 3410967098,
+      "privilege": {
+        "id": 3410967098,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1278213,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "jymaster",
+        "playMaxBrLevel": "jymaster",
+        "downloadMaxBrLevel": "jymaster",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 126961482, "name": "yurii" },
+        { "id": 126078971, "name": "BYTHORNE" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p3.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 10,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 2,
+      "dt": 260589,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 10426036,
+        "vd": -95970,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1099934,
+        "fid": 0,
+        "size": 35833663,
+        "vd": -96373,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 4170440,
+        "vd": -91621,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 6255639,
+        "vd": -93641,
+        "sr": 44100
+      },
+      "mark": 270464,
+      "name": "changes [missyou2]",
+      "id": 3410966247,
+      "privilege": {
+        "id": 3410966247,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1278213,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "jymaster",
+        "playMaxBrLevel": "jymaster",
+        "downloadMaxBrLevel": "jymaster",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 126961473, "name": "FLESHWASTE" },
+        { "id": 126961487, "name": "girlinasolo" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p3.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 11,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 2,
+      "dt": 262040,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320001,
+        "fid": 0,
+        "size": 10484550,
+        "vd": -129820,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1191575,
+        "fid": 0,
+        "size": 39034982,
+        "vd": -130091,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128001,
+        "fid": 0,
+        "size": 4193846,
+        "vd": -125895,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192001,
+        "fid": 0,
+        "size": 6290747,
+        "vd": -127251,
+        "sr": 44100
+      },
+      "mark": 1319040,
+      "name": "1-800-****-YOU",
+      "id": 3410966248,
+      "privilege": {
+        "id": 3410966248,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1278213,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "jymaster",
+        "playMaxBrLevel": "jymaster",
+        "downloadMaxBrLevel": "jymaster",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 54892681, "name": "Damori" },
+        { "id": 58309060, "name": "PROJECT XENON" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p4.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 12,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 2,
+      "dt": 270226,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 5,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 10811603,
+        "vd": -117661,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1166252,
+        "fid": 0,
+        "size": 39399051,
+        "vd": -118254,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 4324667,
+        "vd": -113196,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 6486979,
+        "vd": -114882,
+        "sr": 44100
+      },
+      "mark": 270464,
+      "name": "Point Blank",
+      "id": 3410967099,
+      "privilege": {
+        "id": 3410967099,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1278213,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "jymaster",
+        "playMaxBrLevel": "jymaster",
+        "downloadMaxBrLevel": "jymaster",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 100417527, "name": "azeog" },
+        { "id": 100417528, "name": "Dashix" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p3.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 13,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 2,
+      "dt": 384000,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 5,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320001,
+        "fid": 0,
+        "size": 15362133,
+        "vd": -66831,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1009447,
+        "fid": 0,
+        "size": 48460446,
+        "vd": -66782,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128001,
+        "fid": 0,
+        "size": 6144879,
+        "vd": -63437,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192001,
+        "fid": 0,
+        "size": 9217297,
+        "vd": -64692,
+        "sr": 44100
+      },
+      "mark": 270464,
+      "name": "Nullspace",
+      "id": 3410966249,
+      "privilege": {
+        "id": 3410966249,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1278213,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "jymaster",
+        "playMaxBrLevel": "jymaster",
+        "downloadMaxBrLevel": "jymaster",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 81244, "name": "Theta" },
+        { "id": 94656143, "name": "sylenaxo" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p3.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 14,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 2,
+      "dt": 249448,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 9980909,
+        "vd": -84678,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 922703,
+        "fid": 0,
+        "size": 28775449,
+        "vd": -84763,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3992390,
+        "vd": -80615,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5988563,
+        "vd": -82209,
+        "sr": 44100
+      },
+      "mark": 270464,
+      "name": "PELAGWENNA.",
+      "id": 3410967100,
+      "privilege": {
+        "id": 3410967100,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1278213,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "jymaster",
+        "playMaxBrLevel": "jymaster",
+        "downloadMaxBrLevel": "jymaster",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 126962497, "name": "gallego" },
+        { "id": 47925599, "name": "lingoturbo" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p4.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 15,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 229714,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 9190966,
+        "vd": -99520,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1095835,
+        "fid": 0,
+        "size": 31470363,
+        "vd": -99746,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3676413,
+        "vd": -95849,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5514597,
+        "vd": -97125,
+        "sr": 44100
+      },
+      "mark": 270464,
+      "name": "BASS CANNON",
+      "id": 3410966250,
+      "privilege": {
+        "id": 3410966250,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1081605,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 126961472, "name": "arture" },
+        { "id": 46713711, "name": "Primal Rights" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p4.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 16,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 2,
+      "dt": 255428,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 5,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 10220191,
+        "vd": -56425,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 905203,
+        "fid": 0,
+        "size": 28906541,
+        "vd": -56425,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 4088102,
+        "vd": -52421,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 6132132,
+        "vd": -53897,
+        "sr": 44100
+      },
+      "mark": 270464,
+      "name": "Hidden Flower",
+      "id": 3410966251,
+      "privilege": {
+        "id": 3410966251,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1278213,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "jymaster",
+        "playMaxBrLevel": "jymaster",
+        "downloadMaxBrLevel": "jymaster",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 94655725, "name": "EXXULT" },
+        { "id": 56838490, "name": "Ireyte" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p3.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 17,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 2,
+      "dt": 231706,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 9271423,
+        "vd": -78327,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1015009,
+        "fid": 0,
+        "size": 29402265,
+        "vd": -78706,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3708595,
+        "vd": -74113,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5562871,
+        "vd": -75914,
+        "sr": 44100
+      },
+      "mark": 270464,
+      "name": "SOUL",
+      "id": 3410966252,
+      "privilege": {
+        "id": 3410966252,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1278213,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "jymaster",
+        "playMaxBrLevel": "jymaster",
+        "downloadMaxBrLevel": "jymaster",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 126551041, "name": "KLAXØR" },
+        { "id": 125229438, "name": "Gwap Music" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p3.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 18,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 2,
+      "dt": 144000,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320003,
+        "fid": 0,
+        "size": 5762656,
+        "vd": -87578,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1145748,
+        "fid": 0,
+        "size": 20626153,
+        "vd": -87722,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128003,
+        "fid": 0,
+        "size": 2305088,
+        "vd": -83362,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192003,
+        "fid": 0,
+        "size": 3457611,
+        "vd": -85229,
+        "sr": 44100
+      },
+      "mark": 270464,
+      "name": "Ascend (don’t look down)",
+      "id": 3410967101,
+      "privilege": {
+        "id": 3410967101,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1278213,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "jymaster",
+        "playMaxBrLevel": "jymaster",
+        "downloadMaxBrLevel": "jymaster",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 558473, "name": "Apolo" },
+        { "id": 125464209, "name": "nonsen" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p4.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 19,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 2,
+      "dt": 274673,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 10989236,
+        "vd": -93206,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1069161,
+        "fid": 0,
+        "size": 36713876,
+        "vd": -93218,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 4395720,
+        "vd": -89604,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 6593559,
+        "vd": -90890,
+        "sr": 44100
+      },
+      "mark": 270464,
+      "name": "falsiforme",
+      "id": 3410967102,
+      "privilege": {
+        "id": 3410967102,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1278213,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "jymaster",
+        "playMaxBrLevel": "jymaster",
+        "downloadMaxBrLevel": "jymaster",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 126961478, "name": "vprwv" },
+        { "id": 123211193, "name": "phijit" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p3.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 20,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 1,
+      "dt": 176177,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 5,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7049970,
+        "vd": -95473,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1138730,
+        "fid": 0,
+        "size": 25080552,
+        "vd": -95872,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2820014,
+        "vd": -91342,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4230000,
+        "vd": -92952,
+        "sr": 44100
+      },
+      "mark": 270464,
+      "name": "Visual Node",
+      "id": 3410966253,
+      "privilege": {
+        "id": 3410966253,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1081605,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 94211133, "name": "STOKLA" },
+        { "id": 49598123, "name": "Ecli" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p4.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 21,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 2,
+      "dt": 185142,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7408370,
+        "vd": -92383,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1030717,
+        "fid": 0,
+        "size": 23857179,
+        "vd": -92841,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 2963374,
+        "vd": -88275,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 4445040,
+        "vd": -89877,
+        "sr": 44100
+      },
+      "mark": 270464,
+      "name": "stay4thenight",
+      "id": 3410966254,
+      "privilege": {
+        "id": 3410966254,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1278213,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "jymaster",
+        "playMaxBrLevel": "jymaster",
+        "downloadMaxBrLevel": "jymaster",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 126962491, "name": "ZEROlav" },
+        { "id": 37384787, "name": "Prime Ordnance" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p3.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 22,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 1,
+      "dt": 276700,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 11070738,
+        "vd": -99367,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1133653,
+        "fid": 0,
+        "size": 39215302,
+        "vd": -99643,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 4428321,
+        "vd": -95466,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 6642460,
+        "vd": -96937,
+        "sr": 44100
+      },
+      "mark": 270464,
+      "name": "Lacuna",
+      "id": 3410966255,
+      "privilege": {
+        "id": 3410966255,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1081605,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 48153846, "name": "STEALTH" },
+        { "id": 126962479, "name": "fredi_68" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p3.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 23,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 2,
+      "dt": 224026,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 5,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 8963178,
+        "vd": -61586,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 983784,
+        "fid": 0,
+        "size": 27553314,
+        "vd": -61568,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 3585297,
+        "vd": -57664,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 5377924,
+        "vd": -59080,
+        "sr": 44100
+      },
+      "mark": 270464,
+      "name": "Feverdream",
+      "id": 3410966256,
+      "privilege": {
+        "id": 3410966256,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1278213,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "jymaster",
+        "playMaxBrLevel": "jymaster",
+        "downloadMaxBrLevel": "jymaster",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 126961488, "name": "PostHuman" },
+        { "id": 124775038, "name": "DiamondJaxx" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p4.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 24,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 1,
+      "dt": 201600,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 5,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 8066656,
+        "vd": -110978,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1104006,
+        "fid": 0,
+        "size": 27824688,
+        "vd": -111252,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3226688,
+        "vd": -106637,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4840011,
+        "vd": -108497,
+        "sr": 44100
+      },
+      "mark": 270464,
+      "name": "Unmatched",
+      "id": 3410967103,
+      "privilege": {
+        "id": 3410967103,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1278213,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "jymaster",
+        "playMaxBrLevel": "jymaster",
+        "downloadMaxBrLevel": "jymaster",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 33431343, "name": "NeoKrono" },
+        { "id": 57621802, "name": "rquny" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p4.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 25,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 2,
+      "dt": 264913,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 10599489,
+        "vd": -100073,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1101009,
+        "fid": 0,
+        "size": 36463924,
+        "vd": -100592,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 4239822,
+        "vd": -95619,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 6359711,
+        "vd": -97517,
+        "sr": 44100
+      },
+      "mark": 270464,
+      "name": "LET IT OUT!",
+      "id": 3410967104,
+      "privilege": {
+        "id": 3410967104,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1278213,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "jymaster",
+        "playMaxBrLevel": "jymaster",
+        "downloadMaxBrLevel": "jymaster",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 55536162, "name": "LAZERBLUE" },
+        { "id": 126962480, "name": "INVICT" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p3.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 26,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 1,
+      "dt": 267428,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 10699799,
+        "vd": -98198,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1066548,
+        "fid": 0,
+        "size": 35658080,
+        "vd": -98523,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 4279946,
+        "vd": -94016,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 6419897,
+        "vd": -95657,
+        "sr": 44100
+      },
+      "mark": 270464,
+      "name": "SCRIPT SHOT",
+      "id": 3410966257,
+      "privilege": {
+        "id": 3410966257,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1278213,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "jymaster",
+        "playMaxBrLevel": "jymaster",
+        "downloadMaxBrLevel": "jymaster",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 60145626, "name": "Lex Azu" },
+        { "id": 126961477, "name": "cún" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p3.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 27,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 2,
+      "dt": 344769,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 13793742,
+        "vd": -87488,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1055353,
+        "fid": 0,
+        "size": 45487965,
+        "vd": -87540,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 5517523,
+        "vd": -83249,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 8276262,
+        "vd": -84963,
+        "sr": 44100
+      },
+      "mark": 270464,
+      "name": "Tangerine",
+      "id": 3410967105,
+      "privilege": {
+        "id": 3410967105,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1081605,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 55188345, "name": "Fumi" },
+        { "id": 126962496, "name": "klosabre" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p4.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 28,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 1,
+      "dt": 334344,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 13376827,
+        "vd": -82596,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1016371,
+        "fid": 0,
+        "size": 42483399,
+        "vd": -82601,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 5350757,
+        "vd": -78605,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 8026114,
+        "vd": -80116,
+        "sr": 44100
+      },
+      "mark": 270464,
+      "name": "international voicemail",
+      "id": 3410966258,
+      "privilege": {
+        "id": 3410966258,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1081605,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 100162736, "name": "widalen" },
+        { "id": 125504539, "name": "OK dreamer" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p3.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 29,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 1,
+      "dt": 264000,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 5,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320001,
+        "fid": 0,
+        "size": 10562917,
+        "vd": -77302,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 937149,
+        "fid": 0,
+        "size": 30930750,
+        "vd": -77335,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128001,
+        "fid": 0,
+        "size": 4225193,
+        "vd": -73171,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192001,
+        "fid": 0,
+        "size": 6337768,
+        "vd": -74774,
+        "sr": 44100
+      },
+      "mark": 270464,
+      "name": "Antifragile",
+      "id": 3410967106,
+      "privilege": {
+        "id": 3410967106,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1081605,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 124629625, "name": "freezitsu" },
+        { "id": 95964933, "name": "[KRYE!]" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p3.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 30,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 2,
+      "dt": 306285,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 12253562,
+        "vd": -66949,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 803687,
+        "fid": 0,
+        "size": 30775339,
+        "vd": -66963,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 4901451,
+        "vd": -63037,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 7352155,
+        "vd": -64510,
+        "sr": 44100
+      },
+      "mark": 270464,
+      "name": "carpet leathered-wood (SKIN AND SEVER!)",
+      "id": 3410966259,
+      "privilege": {
+        "id": 3410966259,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1081605,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 55165997, "name": "irene" },
+        { "id": 52194598, "name": "Sadisfy" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p3.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 31,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 2,
+      "dt": 343892,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 13758215,
+        "vd": -79098,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1014438,
+        "fid": 0,
+        "size": 43613484,
+        "vd": -79136,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 5503312,
+        "vd": -75507,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 8254946,
+        "vd": -76694,
+        "sr": 44100
+      },
+      "mark": 270464,
+      "name": "EGOMONGER",
+      "id": 3410967107,
+      "privilege": {
+        "id": 3410967107,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1081605,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 54272293, "name": "raiwinnn." },
+        { "id": 98957155, "name": "sinnai" },
+        { "id": 56887508, "name": "z u y a" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p3.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 32,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 2,
+      "dt": 281095,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320001,
+        "fid": 0,
+        "size": 11246280,
+        "vd": -65640,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1047381,
+        "fid": 0,
+        "size": 36806966,
+        "vd": -65608,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128001,
+        "fid": 0,
+        "size": 4498538,
+        "vd": -61969,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192001,
+        "fid": 0,
+        "size": 6747786,
+        "vd": -63318,
+        "sr": 44100
+      },
+      "mark": 270464,
+      "name": "you always return to the same place",
+      "id": 3410966260,
+      "privilege": {
+        "id": 3410966260,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1278213,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "jymaster",
+        "playMaxBrLevel": "jymaster",
+        "downloadMaxBrLevel": "jymaster",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 126961479, "name": "luckii" },
+        { "id": 58636869, "name": "elii4h" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p3.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 33,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 3,
+      "dt": 496708,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 5,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 19870868,
+        "vd": -60691,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1039406,
+        "fid": 0,
+        "size": 64544330,
+        "vd": -60671,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 7948373,
+        "vd": -56862,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 11922538,
+        "vd": -58253,
+        "sr": 44100
+      },
+      "mark": 270464,
+      "name": "HYPRtrans",
+      "id": 3410967108,
+      "privilege": {
+        "id": 3410967108,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1081605,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 98235961, "name": "\"K.T.\" Selene" },
+        { "id": 126962500, "name": "Mist At Dusk" },
+        { "id": 49668124, "name": "Rayzur" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p3.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 34,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 2,
+      "dt": 382240,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 15292125,
+        "vd": -48669,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 927707,
+        "fid": 0,
+        "size": 44332890,
+        "vd": -48774,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 6116876,
+        "vd": -44315,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 9175293,
+        "vd": -46044,
+        "sr": 44100
+      },
+      "mark": 270464,
+      "name": "Pearlaside",
+      "id": 3410967109,
+      "privilege": {
+        "id": 3410967109,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1081605,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 51165977, "name": "lightt" },
+        { "id": 126962483, "name": "ren x" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p4.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 35,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 2,
+      "dt": 219933,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 8800174,
+        "vd": -62785,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 895374,
+        "fid": 0,
+        "size": 24619380,
+        "vd": -62809,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3520096,
+        "vd": -58549,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5280122,
+        "vd": -60200,
+        "sr": 44100
+      },
+      "mark": 270464,
+      "name": "another life",
+      "id": 3410966261,
+      "privilege": {
+        "id": 3410966261,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1081605,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 35327710, "name": "Hexsyre" },
+        { "id": 126961480, "name": "Elliryn" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p3.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 36,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 2,
+      "dt": 205033,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 8203538,
+        "vd": -63603,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 957512,
+        "fid": 0,
+        "size": 24544010,
+        "vd": -63690,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 3281441,
+        "vd": -60122,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 4922140,
+        "vd": -61301,
+        "sr": 44100
+      },
+      "mark": 270464,
+      "name": "Woolgathering",
+      "id": 3410966262,
+      "privilege": {
+        "id": 3410966262,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1081605,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 126961486, "name": "windseeker" },
+        { "id": 126961474, "name": "wavelets" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p3.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 37,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 2,
+      "dt": 178375,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 5,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7137742,
+        "vd": -39225,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 970929,
+        "fid": 0,
+        "size": 21651998,
+        "vd": -39208,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2855123,
+        "vd": -35218,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4282662,
+        "vd": -36724,
+        "sr": 44100
+      },
+      "mark": 270464,
+      "name": "wither",
+      "id": 3410966263,
+      "privilege": {
+        "id": 3410966263,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1081605,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 0, "name": "Zoumi." },
+        { "id": 53073897, "name": "Jcran" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p3.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 38,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 2,
+      "dt": 185454,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": { "br": 320000, "fid": 0, "size": 7420909, "vd": 7908, "sr": 44100 },
+      "sq": {
+        "br": 655073,
+        "fid": 0,
+        "size": 15189222,
+        "vd": 7886,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2968390,
+        "vd": 12259,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4452563,
+        "vd": 10532,
+        "sr": 44100
+      },
+      "mark": 270464,
+      "name": "Transcend",
+      "id": 3410966264,
+      "privilege": {
+        "id": 3410966264,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1081605,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 126962492, "name": "arcerion" },
+        { "id": 125478991, "name": "ZVLIAN" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p3.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 39,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 2,
+      "dt": 355718,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 14231554,
+        "vd": -26235,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 789924,
+        "fid": 0,
+        "size": 35130360,
+        "vd": -26225,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 5692648,
+        "vd": -22101,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 8538950,
+        "vd": -23700,
+        "sr": 44100
+      },
+      "mark": 270464,
+      "name": "aetherian clockwork (false divinity)",
+      "id": 3410967110,
+      "privilege": {
+        "id": 3410967110,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1081605,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 37505085, "name": "Stardreams" },
+        { "id": 31211543, "name": "FLAIN" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p3.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 40,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 2,
+      "dt": 231428,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 9259929,
+        "vd": -51010,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 943916,
+        "fid": 0,
+        "size": 27310416,
+        "vd": -50998,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3703998,
+        "vd": -47202,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5555975,
+        "vd": -48516,
+        "sr": 44100
+      },
+      "mark": 270464,
+      "name": "meteors ⭒˚.✦",
+      "id": 3410966265,
+      "privilege": {
+        "id": 3410966265,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1278213,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "jymaster",
+        "playMaxBrLevel": "jymaster",
+        "downloadMaxBrLevel": "jymaster",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 53209745, "name": "-Alow" },
+        { "id": 126961469, "name": "coliquet" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p3.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 41,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 2,
+      "dt": 202956,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 10,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 8120991,
+        "vd": -5910,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 830737,
+        "fid": 0,
+        "size": 21079170,
+        "vd": -5896,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3248422,
+        "vd": -1741,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4872612,
+        "vd": -3343,
+        "sr": 44100
+      },
+      "mark": 270464,
+      "name": "Tell",
+      "id": 3410966266,
+      "privilege": {
+        "id": 3410966266,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1081605,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        { "id": 98716996, "name": "Marudalesia" },
+        { "id": 61907373, "name": "kole" }
+      ],
+      "al": {
+        "id": 388843799,
+        "name": "Better Together, Vol. 7",
+        "picUrl": "https://p3.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+        "pic_str": "109951173631839378",
+        "pic": 109951173631839380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 42,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 3,
+      "dt": 549869,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 5,
+      "rt": "",
+      "mst": 9,
+      "cp": 743010,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 21997236,
+        "vd": -43095,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 739559,
+        "fid": 0,
+        "size": 50842652,
+        "vd": -43098,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 8798920,
+        "vd": -38784,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 13198359,
+        "vd": -40487,
+        "sr": 44100
+      },
+      "mark": 270464,
+      "name": "Terminal Opera Suite: All the Lovely Things / Perished Instrumentalist / Adagio for Instrument No. 17 and Our Sister Moon (The Future Will Elude You, But Not Your Creations)",
+      "id": 3410966267,
+      "privilege": {
+        "id": 3410966267,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1081605,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    }
+  ],
+  "code": 200,
+  "album": {
+    "songs": [],
+    "paid": false,
+    "onSale": false,
+    "mark": 1056896,
+    "awardTags": null,
+    "displayTags": null,
+    "publishTime": 1784822400000,
+    "company": "SILKENWOOD",
+    "briefDesc": "",
+    "artists": [
+      {
+        "img1v1Id": 18686200114669624,
+        "topicPerson": 0,
+        "briefDesc": "",
+        "musicSize": 0,
+        "albumSize": 0,
+        "picId": 0,
+        "picUrl": "",
+        "img1v1Url": "https://p3.music.126.net/VnZiScyynLG7atLIZ2YPkw==/18686200114669622.jpg",
+        "followed": false,
+        "trans": "",
+        "alias": [],
+        "name": "Various Artists",
+        "id": 104700,
+        "img1v1Id_str": "18686200114669622"
+      }
+    ],
+    "copyrightId": 743010,
+    "picId": 109951173631839380,
+    "artist": {
+      "img1v1Id": 109951173443334800,
+      "topicPerson": 0,
+      "briefDesc": "",
+      "musicSize": 419950,
+      "albumSize": 1041437,
+      "picId": 109951173443339660,
+      "picUrl": "https://p3.music.126.net/CcBkBX9KuljAiEgFg_VLoA==/109951173443339662.jpg",
+      "img1v1Url": "https://p4.music.126.net/hPo0jeF_k0b1kYjxqFcIgA==/109951173443334802.jpg",
+      "followed": false,
+      "trans": "欧美群星",
+      "alias": [],
+      "name": "Various Artists",
+      "id": 104700,
+      "picId_str": "109951173443339662",
+      "transNames": ["欧美群星"],
+      "img1v1Id_str": "109951173443334802"
+    },
+    "picUrl": "https://p4.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+    "commentThreadId": "R_AL_3_388843799",
+    "companyId": 0,
+    "pic": 109951173631839380,
+    "blurPicUrl": "https://p3.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+    "subType": "录音室版",
+    "status": 1,
+    "description": "",
+    "tags": "",
+    "alias": [],
+    "name": "Better Together, Vol. 7",
+    "id": 388843799,
+    "type": "专辑",
+    "size": 42,
+    "picId_str": "109951173631839378",
+    "info": {
+      "commentThread": {
+        "id": "R_AL_3_388843799",
+        "resourceInfo": {
+          "id": 388843799,
+          "userId": -1,
+          "name": "Better Together, Vol. 7",
+          "imgUrl": "https://p1.music.126.net/FZQXQ_R_n6eiVFRXo1-8mw==/109951173631839378.jpg",
+          "creator": null,
+          "encodedId": null,
+          "subTitle": null,
+          "webUrl": null
+        },
+        "resourceType": 3,
+        "commentCount": 40,
+        "likedCount": 0,
+        "shareCount": 57,
+        "hotCount": 6,
+        "latestLikedUsers": null,
+        "resourceId": 388843799,
+        "resourceOwnerId": -1,
+        "resourceTitle": "Better Together, Vol. 7"
+      },
+      "latestLikedUsers": null,
+      "liked": false,
+      "comments": null,
+      "resourceType": 3,
+      "resourceId": 388843799,
+      "commentCount": 40,
+      "likedCount": 0,
+      "shareCount": 57,
+      "threadId": "R_AL_3_388843799"
+    }
+  }
+}

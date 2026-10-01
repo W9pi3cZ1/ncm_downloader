@@ -1,0 +1,3806 @@
+{
+    "resourceState": true,
+    "songs": [
+        {
+            "rtUrls": [],
+            "ar": [
+                {
+                    "id": 1031107,
+                    "name": "大久保博",
+                    "alia": [
+                        "Hiroshi Okubo"
+                    ]
+                },
+                {
+                    "id": 29810258,
+                    "name": "光吉猛修",
+                    "alia": [
+                        "Takenobu Mitsuyoshi",
+                        "T. Mitsuyoshi",
+                        "光吉たけのぶ",
+                        "T. Mitsuyoshi",
+                        "Takenobu \"Charisma'n\" Mitsuyoshi"
+                    ]
+                }
+            ],
+            "al": {
+                "id": 286986836,
+                "name": "AD:HOUSE 13",
+                "picUrl": "https://p3.music.126.net/fXrgDzVdt7shPs2kASP3vQ==/109951172090048622.jpg",
+                "pic_str": "109951172090048622",
+                "pic": 109951172090048620
+            },
+            "st": 1,
+            "noCopyrightRcmd": null,
+            "artistClassics": null,
+            "songJumpInfo": null,
+            "h": {
+                "br": 320000,
+                "fid": 0,
+                "size": 11682003,
+                "vd": -78846,
+                "sr": 44100
+            },
+            "sq": {
+                "br": 1046966,
+                "fid": 0,
+                "size": 38216578,
+                "vd": -78843,
+                "sr": 44100
+            },
+            "hr": null,
+            "l": {
+                "br": 128000,
+                "fid": 0,
+                "size": 4672827,
+                "vd": -74662,
+                "sr": 44100
+            },
+            "rtUrl": null,
+            "ftype": 0,
+            "rtype": 0,
+            "rurl": null,
+            "pst": 0,
+            "alia": [],
+            "pop": 30,
+            "rt": "",
+            "mst": 9,
+            "cp": 1418220,
+            "crbt": null,
+            "cf": "",
+            "djId": 0,
+            "no": 1,
+            "fee": 8,
+            "mv": 0,
+            "cd": "01",
+            "t": 0,
+            "v": 8,
+            "dt": 291976,
+            "mark": 17180139520,
+            "a": null,
+            "m": {
+                "br": 192000,
+                "fid": 0,
+                "size": 7009219,
+                "vd": -76283,
+                "sr": 44100
+            },
+            "name": "Azure Blue (feat. 光吉猛修)",
+            "id": 2751640240,
+            "privilege": {
+                "id": 2751640240,
+                "fee": 8,
+                "payed": 0,
+                "st": 0,
+                "pl": 320000,
+                "dl": 0,
+                "sp": 7,
+                "cp": 1,
+                "subp": 1,
+                "cs": false,
+                "maxbr": 999000,
+                "fl": 320000,
+                "toast": false,
+                "flag": 1540356,
+                "preSell": false,
+                "playMaxbr": 999000,
+                "downloadMaxbr": 999000,
+                "maxBrLevel": "jymaster",
+                "playMaxBrLevel": "jymaster",
+                "downloadMaxBrLevel": "jymaster",
+                "plLevel": "exhigh",
+                "dlLevel": "none",
+                "flLevel": "exhigh",
+                "rscl": null,
+                "freeTrialPrivilege": {
+                    "resConsumable": false,
+                    "userConsumable": false,
+                    "listenType": null,
+                    "cannotListenReason": null,
+                    "playReason": null,
+                    "freeLimitTagType": null
+                },
+                "rightSource": 0,
+                "chargeInfoList": [
+                    {
+                        "rate": 128000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 192000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 320000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 999000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 1
+                    }
+                ],
+                "code": 0,
+                "message": null,
+                "plLevels": null,
+                "dlLevels": null,
+                "ignoreCache": null,
+                "bd": null
+            }
+        },
+        {
+            "rtUrls": [],
+            "ar": [
+                {
+                    "id": 46478706,
+                    "name": "Shunji Fujii"
+                }
+            ],
+            "al": {
+                "id": 286986836,
+                "name": "AD:HOUSE 13",
+                "picUrl": "https://p3.music.126.net/fXrgDzVdt7shPs2kASP3vQ==/109951172090048622.jpg",
+                "pic_str": "109951172090048622",
+                "pic": 109951172090048620
+            },
+            "st": 1,
+            "noCopyrightRcmd": null,
+            "artistClassics": null,
+            "songJumpInfo": null,
+            "h": {
+                "br": 320001,
+                "fid": 0,
+                "size": 10602623,
+                "vd": -45543,
+                "sr": 44100
+            },
+            "sq": {
+                "br": 921253,
+                "fid": 0,
+                "size": 30521579,
+                "vd": -45527,
+                "sr": 44100
+            },
+            "hr": null,
+            "l": {
+                "br": 128001,
+                "fid": 0,
+                "size": 4241075,
+                "vd": -41380,
+                "sr": 44100
+            },
+            "rtUrl": null,
+            "ftype": 0,
+            "rtype": 0,
+            "rurl": null,
+            "pst": 0,
+            "alia": [],
+            "pop": 25,
+            "rt": "",
+            "mst": 9,
+            "cp": 1418220,
+            "crbt": null,
+            "cf": "",
+            "djId": 0,
+            "no": 2,
+            "fee": 8,
+            "mv": 0,
+            "cd": "01",
+            "t": 0,
+            "v": 8,
+            "dt": 265001,
+            "mark": 17180139520,
+            "a": null,
+            "m": {
+                "br": 192001,
+                "fid": 0,
+                "size": 6361591,
+                "vd": -42982,
+                "sr": 44100
+            },
+            "name": "Skyline",
+            "id": 2751639579,
+            "privilege": {
+                "id": 2751639579,
+                "fee": 8,
+                "payed": 0,
+                "st": 0,
+                "pl": 320000,
+                "dl": 0,
+                "sp": 7,
+                "cp": 1,
+                "subp": 1,
+                "cs": false,
+                "maxbr": 999000,
+                "fl": 320000,
+                "toast": false,
+                "flag": 1540356,
+                "preSell": false,
+                "playMaxbr": 999000,
+                "downloadMaxbr": 999000,
+                "maxBrLevel": "jymaster",
+                "playMaxBrLevel": "jymaster",
+                "downloadMaxBrLevel": "jymaster",
+                "plLevel": "exhigh",
+                "dlLevel": "none",
+                "flLevel": "exhigh",
+                "rscl": null,
+                "freeTrialPrivilege": {
+                    "resConsumable": false,
+                    "userConsumable": false,
+                    "listenType": null,
+                    "cannotListenReason": null,
+                    "playReason": null,
+                    "freeLimitTagType": null
+                },
+                "rightSource": 0,
+                "chargeInfoList": [
+                    {
+                        "rate": 128000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 192000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 320000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 999000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 1
+                    }
+                ],
+                "code": 0,
+                "message": null,
+                "plLevels": null,
+                "dlLevels": null,
+                "ignoreCache": null,
+                "bd": null
+            }
+        },
+        {
+            "rtUrls": [],
+            "ar": [
+                {
+                    "id": 1098070,
+                    "name": "Kankitsu",
+                    "alia": [
+                        "Lime"
+                    ]
+                }
+            ],
+            "al": {
+                "id": 286986836,
+                "name": "AD:HOUSE 13",
+                "picUrl": "https://p4.music.126.net/fXrgDzVdt7shPs2kASP3vQ==/109951172090048622.jpg",
+                "pic_str": "109951172090048622",
+                "pic": 109951172090048620
+            },
+            "st": 1,
+            "noCopyrightRcmd": null,
+            "artistClassics": null,
+            "songJumpInfo": null,
+            "h": {
+                "br": 320001,
+                "fid": 0,
+                "size": 12482395,
+                "vd": -65223,
+                "sr": 44100
+            },
+            "sq": {
+                "br": 1057270,
+                "fid": 0,
+                "size": 41237676,
+                "vd": -65202,
+                "sr": 44100
+            },
+            "hr": null,
+            "l": {
+                "br": 128001,
+                "fid": 0,
+                "size": 4992984,
+                "vd": -61172,
+                "sr": 44100
+            },
+            "rtUrl": null,
+            "ftype": 0,
+            "rtype": 0,
+            "rurl": null,
+            "pst": 0,
+            "alia": [],
+            "pop": 25,
+            "rt": "",
+            "mst": 9,
+            "cp": 1418220,
+            "crbt": null,
+            "cf": "",
+            "djId": 0,
+            "no": 3,
+            "fee": 8,
+            "mv": 0,
+            "cd": "01",
+            "t": 0,
+            "v": 8,
+            "dt": 311988,
+            "mark": 17180139520,
+            "a": null,
+            "m": {
+                "br": 192001,
+                "fid": 0,
+                "size": 7489454,
+                "vd": -62704,
+                "sr": 44100
+            },
+            "name": "Treasure",
+            "id": 2751639580,
+            "privilege": {
+                "id": 2751639580,
+                "fee": 8,
+                "payed": 0,
+                "st": 0,
+                "pl": 320000,
+                "dl": 0,
+                "sp": 7,
+                "cp": 1,
+                "subp": 1,
+                "cs": false,
+                "maxbr": 999000,
+                "fl": 320000,
+                "toast": false,
+                "flag": 1540356,
+                "preSell": false,
+                "playMaxbr": 999000,
+                "downloadMaxbr": 999000,
+                "maxBrLevel": "jymaster",
+                "playMaxBrLevel": "jymaster",
+                "downloadMaxBrLevel": "jymaster",
+                "plLevel": "exhigh",
+                "dlLevel": "none",
+                "flLevel": "exhigh",
+                "rscl": null,
+                "freeTrialPrivilege": {
+                    "resConsumable": false,
+                    "userConsumable": false,
+                    "listenType": null,
+                    "cannotListenReason": null,
+                    "playReason": null,
+                    "freeLimitTagType": null
+                },
+                "rightSource": 0,
+                "chargeInfoList": [
+                    {
+                        "rate": 128000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 192000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 320000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 999000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 1
+                    }
+                ],
+                "code": 0,
+                "message": null,
+                "plLevels": null,
+                "dlLevels": null,
+                "ignoreCache": null,
+                "bd": null
+            }
+        },
+        {
+            "rtUrls": [],
+            "ar": [
+                {
+                    "id": 711313,
+                    "name": "good-cool",
+                    "alia": [
+                        "古川竜也",
+                        "Tatsuya Furukawa"
+                    ]
+                }
+            ],
+            "al": {
+                "id": 286986836,
+                "name": "AD:HOUSE 13",
+                "picUrl": "https://p4.music.126.net/fXrgDzVdt7shPs2kASP3vQ==/109951172090048622.jpg",
+                "pic_str": "109951172090048622",
+                "pic": 109951172090048620
+            },
+            "st": 1,
+            "noCopyrightRcmd": null,
+            "artistClassics": null,
+            "songJumpInfo": null,
+            "h": {
+                "br": 320001,
+                "fid": 0,
+                "size": 10562917,
+                "vd": -65137,
+                "sr": 44100
+            },
+            "sq": {
+                "br": 1024229,
+                "fid": 0,
+                "size": 33804410,
+                "vd": -65116,
+                "sr": 44100
+            },
+            "hr": null,
+            "l": {
+                "br": 128001,
+                "fid": 0,
+                "size": 4225193,
+                "vd": -61035,
+                "sr": 44100
+            },
+            "rtUrl": null,
+            "ftype": 0,
+            "rtype": 0,
+            "rurl": null,
+            "pst": 0,
+            "alia": [],
+            "pop": 30,
+            "rt": "",
+            "mst": 9,
+            "cp": 1418220,
+            "crbt": null,
+            "cf": "",
+            "djId": 0,
+            "no": 4,
+            "fee": 8,
+            "mv": 0,
+            "cd": "01",
+            "t": 0,
+            "v": 8,
+            "dt": 264000,
+            "mark": 17180139520,
+            "a": null,
+            "m": {
+                "br": 192001,
+                "fid": 0,
+                "size": 6337768,
+                "vd": -62605,
+                "sr": 44100
+            },
+            "name": "With The Flow",
+            "id": 2751639581,
+            "privilege": {
+                "id": 2751639581,
+                "fee": 8,
+                "payed": 0,
+                "st": 0,
+                "pl": 320000,
+                "dl": 0,
+                "sp": 7,
+                "cp": 1,
+                "subp": 1,
+                "cs": false,
+                "maxbr": 999000,
+                "fl": 320000,
+                "toast": false,
+                "flag": 1540356,
+                "preSell": false,
+                "playMaxbr": 999000,
+                "downloadMaxbr": 999000,
+                "maxBrLevel": "jymaster",
+                "playMaxBrLevel": "jymaster",
+                "downloadMaxBrLevel": "jymaster",
+                "plLevel": "exhigh",
+                "dlLevel": "none",
+                "flLevel": "exhigh",
+                "rscl": null,
+                "freeTrialPrivilege": {
+                    "resConsumable": false,
+                    "userConsumable": false,
+                    "listenType": null,
+                    "cannotListenReason": null,
+                    "playReason": null,
+                    "freeLimitTagType": null
+                },
+                "rightSource": 0,
+                "chargeInfoList": [
+                    {
+                        "rate": 128000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 192000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 320000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 999000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 1
+                    }
+                ],
+                "code": 0,
+                "message": null,
+                "plLevels": null,
+                "dlLevels": null,
+                "ignoreCache": null,
+                "bd": null
+            }
+        },
+        {
+            "rtUrls": [],
+            "ar": [
+                {
+                    "id": 14092624,
+                    "name": "Nyolfen",
+                    "alia": [
+                        "ニョルフェン"
+                    ]
+                }
+            ],
+            "al": {
+                "id": 286986836,
+                "name": "AD:HOUSE 13",
+                "picUrl": "https://p3.music.126.net/fXrgDzVdt7shPs2kASP3vQ==/109951172090048622.jpg",
+                "pic_str": "109951172090048622",
+                "pic": 109951172090048620
+            },
+            "st": 1,
+            "noCopyrightRcmd": null,
+            "artistClassics": null,
+            "songJumpInfo": null,
+            "h": {
+                "br": 320001,
+                "fid": 0,
+                "size": 9922395,
+                "vd": -58496,
+                "sr": 44100
+            },
+            "sq": {
+                "br": 1045336,
+                "fid": 0,
+                "size": 32409698,
+                "vd": -58478,
+                "sr": 44100
+            },
+            "hr": null,
+            "l": {
+                "br": 128001,
+                "fid": 0,
+                "size": 3968984,
+                "vd": -54444,
+                "sr": 44100
+            },
+            "rtUrl": null,
+            "ftype": 0,
+            "rtype": 0,
+            "rurl": null,
+            "pst": 0,
+            "alia": [],
+            "pop": 25,
+            "rt": "",
+            "mst": 9,
+            "cp": 1418220,
+            "crbt": null,
+            "cf": "",
+            "djId": 0,
+            "no": 5,
+            "fee": 8,
+            "mv": 0,
+            "cd": "01",
+            "t": 0,
+            "v": 8,
+            "dt": 247997,
+            "mark": 17180139520,
+            "a": null,
+            "m": {
+                "br": 192001,
+                "fid": 0,
+                "size": 5953454,
+                "vd": -55961,
+                "sr": 44100
+            },
+            "name": "In the Summer Breeze",
+            "id": 2751640241,
+            "privilege": {
+                "id": 2751640241,
+                "fee": 8,
+                "payed": 0,
+                "st": 0,
+                "pl": 320000,
+                "dl": 0,
+                "sp": 7,
+                "cp": 1,
+                "subp": 1,
+                "cs": false,
+                "maxbr": 999000,
+                "fl": 320000,
+                "toast": false,
+                "flag": 1540356,
+                "preSell": false,
+                "playMaxbr": 999000,
+                "downloadMaxbr": 999000,
+                "maxBrLevel": "jymaster",
+                "playMaxBrLevel": "jymaster",
+                "downloadMaxBrLevel": "jymaster",
+                "plLevel": "exhigh",
+                "dlLevel": "none",
+                "flLevel": "exhigh",
+                "rscl": null,
+                "freeTrialPrivilege": {
+                    "resConsumable": false,
+                    "userConsumable": false,
+                    "listenType": null,
+                    "cannotListenReason": null,
+                    "playReason": null,
+                    "freeLimitTagType": null
+                },
+                "rightSource": 0,
+                "chargeInfoList": [
+                    {
+                        "rate": 128000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 192000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 320000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 999000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 1
+                    }
+                ],
+                "code": 0,
+                "message": null,
+                "plLevels": null,
+                "dlLevels": null,
+                "ignoreCache": null,
+                "bd": null
+            }
+        },
+        {
+            "rtUrls": [],
+            "ar": [
+                {
+                    "id": 100284410,
+                    "name": "otoshi.b,Myui"
+                }
+            ],
+            "al": {
+                "id": 286986836,
+                "name": "AD:HOUSE 13",
+                "picUrl": "https://p3.music.126.net/fXrgDzVdt7shPs2kASP3vQ==/109951172090048622.jpg",
+                "pic_str": "109951172090048622",
+                "pic": 109951172090048620
+            },
+            "st": 1,
+            "noCopyrightRcmd": null,
+            "artistClassics": null,
+            "songJumpInfo": null,
+            "h": {
+                "br": 320001,
+                "fid": 0,
+                "size": 12922297,
+                "vd": -78018,
+                "sr": 44100
+            },
+            "sq": {
+                "br": 1141424,
+                "fid": 0,
+                "size": 46090683,
+                "vd": -77997,
+                "sr": 44100
+            },
+            "hr": null,
+            "l": {
+                "br": 128001,
+                "fid": 0,
+                "size": 5168945,
+                "vd": -74083,
+                "sr": 44100
+            },
+            "rtUrl": null,
+            "ftype": 0,
+            "rtype": 0,
+            "rurl": null,
+            "pst": 0,
+            "alia": [],
+            "pop": 20,
+            "rt": "",
+            "mst": 9,
+            "cp": 1418220,
+            "crbt": null,
+            "cf": "",
+            "djId": 0,
+            "no": 6,
+            "fee": 8,
+            "mv": 0,
+            "cd": "01",
+            "t": 0,
+            "v": 8,
+            "dt": 322998,
+            "mark": 17180139520,
+            "a": null,
+            "m": {
+                "br": 192001,
+                "fid": 0,
+                "size": 7753395,
+                "vd": -75576,
+                "sr": 44100
+            },
+            "name": "感傷マリオネット",
+            "id": 2751640242,
+            "privilege": {
+                "id": 2751640242,
+                "fee": 8,
+                "payed": 0,
+                "st": 0,
+                "pl": 320000,
+                "dl": 0,
+                "sp": 7,
+                "cp": 1,
+                "subp": 1,
+                "cs": false,
+                "maxbr": 999000,
+                "fl": 320000,
+                "toast": false,
+                "flag": 1540356,
+                "preSell": false,
+                "playMaxbr": 999000,
+                "downloadMaxbr": 999000,
+                "maxBrLevel": "jymaster",
+                "playMaxBrLevel": "jymaster",
+                "downloadMaxBrLevel": "jymaster",
+                "plLevel": "exhigh",
+                "dlLevel": "none",
+                "flLevel": "exhigh",
+                "rscl": null,
+                "freeTrialPrivilege": {
+                    "resConsumable": false,
+                    "userConsumable": false,
+                    "listenType": null,
+                    "cannotListenReason": null,
+                    "playReason": null,
+                    "freeLimitTagType": null
+                },
+                "rightSource": 0,
+                "chargeInfoList": [
+                    {
+                        "rate": 128000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 192000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 320000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 999000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 1
+                    }
+                ],
+                "code": 0,
+                "message": null,
+                "plLevels": null,
+                "dlLevels": null,
+                "ignoreCache": null,
+                "bd": null
+            }
+        },
+        {
+            "rtUrls": [],
+            "ar": [
+                {
+                    "id": 50959763,
+                    "name": "ag",
+                    "alia": [
+                        "agrooveP"
+                    ]
+                }
+            ],
+            "al": {
+                "id": 286986836,
+                "name": "AD:HOUSE 13",
+                "picUrl": "https://p3.music.126.net/fXrgDzVdt7shPs2kASP3vQ==/109951172090048622.jpg",
+                "pic_str": "109951172090048622",
+                "pic": 109951172090048620
+            },
+            "st": 1,
+            "noCopyrightRcmd": null,
+            "artistClassics": null,
+            "songJumpInfo": null,
+            "h": {
+                "br": 320001,
+                "fid": 0,
+                "size": 9842982,
+                "vd": -47481,
+                "sr": 44100
+            },
+            "sq": {
+                "br": 915869,
+                "fid": 0,
+                "size": 28167801,
+                "vd": -47466,
+                "sr": 44100
+            },
+            "hr": null,
+            "l": {
+                "br": 128001,
+                "fid": 0,
+                "size": 3937219,
+                "vd": -43146,
+                "sr": 44100
+            },
+            "rtUrl": null,
+            "ftype": 0,
+            "rtype": 0,
+            "rurl": null,
+            "pst": 0,
+            "alia": [],
+            "pop": 25,
+            "rt": "",
+            "mst": 9,
+            "cp": 1418220,
+            "crbt": null,
+            "cf": "",
+            "djId": 0,
+            "no": 7,
+            "fee": 8,
+            "mv": 0,
+            "cd": "01",
+            "t": 0,
+            "v": 8,
+            "dt": 246002,
+            "mark": 17180139520,
+            "a": null,
+            "m": {
+                "br": 192001,
+                "fid": 0,
+                "size": 5905807,
+                "vd": -44923,
+                "sr": 44100
+            },
+            "name": "Under the starlight",
+            "id": 2751640243,
+            "privilege": {
+                "id": 2751640243,
+                "fee": 8,
+                "payed": 0,
+                "st": 0,
+                "pl": 320000,
+                "dl": 0,
+                "sp": 7,
+                "cp": 1,
+                "subp": 1,
+                "cs": false,
+                "maxbr": 999000,
+                "fl": 320000,
+                "toast": false,
+                "flag": 1540356,
+                "preSell": false,
+                "playMaxbr": 999000,
+                "downloadMaxbr": 999000,
+                "maxBrLevel": "jymaster",
+                "playMaxBrLevel": "jymaster",
+                "downloadMaxBrLevel": "jymaster",
+                "plLevel": "exhigh",
+                "dlLevel": "none",
+                "flLevel": "exhigh",
+                "rscl": null,
+                "freeTrialPrivilege": {
+                    "resConsumable": false,
+                    "userConsumable": false,
+                    "listenType": null,
+                    "cannotListenReason": null,
+                    "playReason": null,
+                    "freeLimitTagType": null
+                },
+                "rightSource": 0,
+                "chargeInfoList": [
+                    {
+                        "rate": 128000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 192000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 320000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 999000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 1
+                    }
+                ],
+                "code": 0,
+                "message": null,
+                "plLevels": null,
+                "dlLevels": null,
+                "ignoreCache": null,
+                "bd": null
+            }
+        },
+        {
+            "rtUrls": [],
+            "ar": [
+                {
+                    "id": 12877013,
+                    "name": "callasoiled",
+                    "alia": [
+                        "塚辺優也",
+                        "Calla Soiled",
+                        "Ev(イーブル)P",
+                        "licorust",
+                        "k0kemomo"
+                    ]
+                }
+            ],
+            "al": {
+                "id": 286986836,
+                "name": "AD:HOUSE 13",
+                "picUrl": "https://p4.music.126.net/fXrgDzVdt7shPs2kASP3vQ==/109951172090048622.jpg",
+                "pic_str": "109951172090048622",
+                "pic": 109951172090048620
+            },
+            "st": 1,
+            "noCopyrightRcmd": null,
+            "artistClassics": null,
+            "songJumpInfo": null,
+            "h": {
+                "br": 320002,
+                "fid": 0,
+                "size": 8522231,
+                "vd": -64557,
+                "sr": 44100
+            },
+            "sq": {
+                "br": 1042209,
+                "fid": 0,
+                "size": 27751941,
+                "vd": -64539,
+                "sr": 44100
+            },
+            "hr": null,
+            "l": {
+                "br": 128002,
+                "fid": 0,
+                "size": 3408919,
+                "vd": -60459,
+                "sr": 44100
+            },
+            "rtUrl": null,
+            "ftype": 0,
+            "rtype": 0,
+            "rurl": null,
+            "pst": 0,
+            "alia": [],
+            "pop": 20,
+            "rt": "",
+            "mst": 9,
+            "cp": 1418220,
+            "crbt": null,
+            "cf": "",
+            "djId": 0,
+            "no": 8,
+            "fee": 8,
+            "mv": 0,
+            "cd": "01",
+            "t": 0,
+            "v": 12,
+            "dt": 212993,
+            "mark": 17180270592,
+            "a": null,
+            "m": {
+                "br": 192002,
+                "fid": 0,
+                "size": 5113356,
+                "vd": -62020,
+                "sr": 44100
+            },
+            "name": "When the Salsa Turns Orange",
+            "id": 2751640244,
+            "privilege": {
+                "id": 2751640244,
+                "fee": 8,
+                "payed": 0,
+                "st": 0,
+                "pl": 320000,
+                "dl": 0,
+                "sp": 7,
+                "cp": 1,
+                "subp": 1,
+                "cs": false,
+                "maxbr": 999000,
+                "fl": 320000,
+                "toast": false,
+                "flag": 1540356,
+                "preSell": false,
+                "playMaxbr": 999000,
+                "downloadMaxbr": 999000,
+                "maxBrLevel": "jymaster",
+                "playMaxBrLevel": "jymaster",
+                "downloadMaxBrLevel": "jymaster",
+                "plLevel": "exhigh",
+                "dlLevel": "none",
+                "flLevel": "exhigh",
+                "rscl": null,
+                "freeTrialPrivilege": {
+                    "resConsumable": false,
+                    "userConsumable": false,
+                    "listenType": null,
+                    "cannotListenReason": null,
+                    "playReason": null,
+                    "freeLimitTagType": null
+                },
+                "rightSource": 0,
+                "chargeInfoList": [
+                    {
+                        "rate": 128000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 192000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 320000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 999000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 1
+                    }
+                ],
+                "code": 0,
+                "message": null,
+                "plLevels": null,
+                "dlLevels": null,
+                "ignoreCache": null,
+                "bd": null
+            }
+        },
+        {
+            "rtUrls": [],
+            "ar": [
+                {
+                    "id": 12047297,
+                    "name": "ARForest"
+                }
+            ],
+            "al": {
+                "id": 286986836,
+                "name": "AD:HOUSE 13",
+                "picUrl": "https://p4.music.126.net/fXrgDzVdt7shPs2kASP3vQ==/109951172090048622.jpg",
+                "pic_str": "109951172090048622",
+                "pic": 109951172090048620
+            },
+            "st": 1,
+            "noCopyrightRcmd": null,
+            "artistClassics": null,
+            "songJumpInfo": null,
+            "h": {
+                "br": 320002,
+                "fid": 0,
+                "size": 8162787,
+                "vd": -44853,
+                "sr": 44100
+            },
+            "sq": {
+                "br": 958803,
+                "fid": 0,
+                "size": 24452895,
+                "vd": -44838,
+                "sr": 44100
+            },
+            "hr": null,
+            "l": {
+                "br": 128002,
+                "fid": 0,
+                "size": 3265141,
+                "vd": -40598,
+                "sr": 44100
+            },
+            "rtUrl": null,
+            "ftype": 0,
+            "rtype": 0,
+            "rurl": null,
+            "pst": 0,
+            "alia": [],
+            "pop": 25,
+            "rt": "",
+            "mst": 9,
+            "cp": 1418220,
+            "crbt": null,
+            "cf": "",
+            "djId": 0,
+            "no": 9,
+            "fee": 8,
+            "mv": 0,
+            "cd": "01",
+            "t": 0,
+            "v": 9,
+            "dt": 203997,
+            "mark": 17180139520,
+            "a": null,
+            "m": {
+                "br": 192002,
+                "fid": 0,
+                "size": 4897689,
+                "vd": -42285,
+                "sr": 44100
+            },
+            "name": "Dance All Night",
+            "id": 2751640245,
+            "privilege": {
+                "id": 2751640245,
+                "fee": 8,
+                "payed": 0,
+                "st": 0,
+                "pl": 320000,
+                "dl": 0,
+                "sp": 7,
+                "cp": 1,
+                "subp": 1,
+                "cs": false,
+                "maxbr": 999000,
+                "fl": 320000,
+                "toast": false,
+                "flag": 1540356,
+                "preSell": false,
+                "playMaxbr": 999000,
+                "downloadMaxbr": 999000,
+                "maxBrLevel": "jymaster",
+                "playMaxBrLevel": "jymaster",
+                "downloadMaxBrLevel": "jymaster",
+                "plLevel": "exhigh",
+                "dlLevel": "none",
+                "flLevel": "exhigh",
+                "rscl": null,
+                "freeTrialPrivilege": {
+                    "resConsumable": false,
+                    "userConsumable": false,
+                    "listenType": null,
+                    "cannotListenReason": null,
+                    "playReason": null,
+                    "freeLimitTagType": null
+                },
+                "rightSource": 0,
+                "chargeInfoList": [
+                    {
+                        "rate": 128000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 192000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 320000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 999000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 1
+                    }
+                ],
+                "code": 0,
+                "message": null,
+                "plLevels": null,
+                "dlLevels": null,
+                "ignoreCache": null,
+                "bd": null
+            }
+        },
+        {
+            "rtUrls": [],
+            "ar": [
+                {
+                    "id": 51991573,
+                    "name": "KARUT",
+                    "alia": [
+                        "Stripe.P",
+                        "TriplebulletS"
+                    ]
+                }
+            ],
+            "al": {
+                "id": 286986836,
+                "name": "AD:HOUSE 13",
+                "picUrl": "https://p3.music.126.net/fXrgDzVdt7shPs2kASP3vQ==/109951172090048622.jpg",
+                "pic_str": "109951172090048622",
+                "pic": 109951172090048620
+            },
+            "st": 1,
+            "noCopyrightRcmd": null,
+            "artistClassics": null,
+            "songJumpInfo": null,
+            "h": {
+                "br": 320000,
+                "fid": 0,
+                "size": 8561938,
+                "vd": -55488,
+                "sr": 44100
+            },
+            "sq": {
+                "br": 951491,
+                "fid": 0,
+                "size": 25455607,
+                "vd": -55464,
+                "sr": 44100
+            },
+            "hr": null,
+            "l": {
+                "br": 128000,
+                "fid": 0,
+                "size": 3424801,
+                "vd": -51650,
+                "sr": 44100
+            },
+            "rtUrl": null,
+            "ftype": 0,
+            "rtype": 0,
+            "rurl": null,
+            "pst": 0,
+            "alia": [],
+            "pop": 20,
+            "rt": "",
+            "mst": 9,
+            "cp": 1418220,
+            "crbt": null,
+            "cf": "",
+            "djId": 0,
+            "no": 10,
+            "fee": 8,
+            "mv": 0,
+            "cd": "01",
+            "t": 0,
+            "v": 9,
+            "dt": 213993,
+            "mark": 17180139520,
+            "a": null,
+            "m": {
+                "br": 192000,
+                "fid": 0,
+                "size": 5137180,
+                "vd": -52978,
+                "sr": 44100
+            },
+            "name": "Cherry Coke",
+            "id": 2751640246,
+            "privilege": {
+                "id": 2751640246,
+                "fee": 8,
+                "payed": 0,
+                "st": 0,
+                "pl": 320000,
+                "dl": 0,
+                "sp": 7,
+                "cp": 1,
+                "subp": 1,
+                "cs": false,
+                "maxbr": 999000,
+                "fl": 320000,
+                "toast": false,
+                "flag": 1540356,
+                "preSell": false,
+                "playMaxbr": 999000,
+                "downloadMaxbr": 999000,
+                "maxBrLevel": "jymaster",
+                "playMaxBrLevel": "jymaster",
+                "downloadMaxBrLevel": "jymaster",
+                "plLevel": "exhigh",
+                "dlLevel": "none",
+                "flLevel": "exhigh",
+                "rscl": null,
+                "freeTrialPrivilege": {
+                    "resConsumable": false,
+                    "userConsumable": false,
+                    "listenType": null,
+                    "cannotListenReason": null,
+                    "playReason": null,
+                    "freeLimitTagType": null
+                },
+                "rightSource": 0,
+                "chargeInfoList": [
+                    {
+                        "rate": 128000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 192000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 320000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 999000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 1
+                    }
+                ],
+                "code": 0,
+                "message": null,
+                "plLevels": null,
+                "dlLevels": null,
+                "ignoreCache": null,
+                "bd": null
+            }
+        },
+        {
+            "rtUrls": [],
+            "ar": [
+                {
+                    "id": 35599394,
+                    "name": "Aoi"
+                }
+            ],
+            "al": {
+                "id": 286986836,
+                "name": "AD:HOUSE 13",
+                "picUrl": "https://p4.music.126.net/fXrgDzVdt7shPs2kASP3vQ==/109951172090048622.jpg",
+                "pic_str": "109951172090048622",
+                "pic": 109951172090048620
+            },
+            "st": 1,
+            "noCopyrightRcmd": null,
+            "artistClassics": null,
+            "songJumpInfo": null,
+            "h": {
+                "br": 320001,
+                "fid": 0,
+                "size": 9802231,
+                "vd": -62613,
+                "sr": 44100
+            },
+            "sq": {
+                "br": 1009901,
+                "fid": 0,
+                "size": 30932200,
+                "vd": -62623,
+                "sr": 44100
+            },
+            "hr": null,
+            "l": {
+                "br": 128001,
+                "fid": 0,
+                "size": 3920919,
+                "vd": -58971,
+                "sr": 44100
+            },
+            "rtUrl": null,
+            "ftype": 0,
+            "rtype": 0,
+            "rurl": null,
+            "pst": 0,
+            "alia": [],
+            "pop": 25,
+            "rt": "",
+            "mst": 9,
+            "cp": 1418220,
+            "crbt": null,
+            "cf": "",
+            "djId": 0,
+            "no": 11,
+            "fee": 8,
+            "mv": 0,
+            "cd": "01",
+            "t": 0,
+            "v": 13,
+            "dt": 244995,
+            "mark": 17180270592,
+            "a": null,
+            "m": {
+                "br": 192001,
+                "fid": 0,
+                "size": 5881356,
+                "vd": -60248,
+                "sr": 44100
+            },
+            "name": "Strom",
+            "id": 2751639582,
+            "privilege": {
+                "id": 2751639582,
+                "fee": 8,
+                "payed": 0,
+                "st": 0,
+                "pl": 320000,
+                "dl": 0,
+                "sp": 7,
+                "cp": 1,
+                "subp": 1,
+                "cs": false,
+                "maxbr": 999000,
+                "fl": 320000,
+                "toast": false,
+                "flag": 1540356,
+                "preSell": false,
+                "playMaxbr": 999000,
+                "downloadMaxbr": 999000,
+                "maxBrLevel": "jymaster",
+                "playMaxBrLevel": "jymaster",
+                "downloadMaxBrLevel": "jymaster",
+                "plLevel": "exhigh",
+                "dlLevel": "none",
+                "flLevel": "exhigh",
+                "rscl": null,
+                "freeTrialPrivilege": {
+                    "resConsumable": false,
+                    "userConsumable": false,
+                    "listenType": null,
+                    "cannotListenReason": null,
+                    "playReason": null,
+                    "freeLimitTagType": null
+                },
+                "rightSource": 0,
+                "chargeInfoList": [
+                    {
+                        "rate": 128000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 192000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 320000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 999000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 1
+                    }
+                ],
+                "code": 0,
+                "message": null,
+                "plLevels": null,
+                "dlLevels": null,
+                "ignoreCache": null,
+                "bd": null
+            }
+        },
+        {
+            "rtUrls": [],
+            "ar": [
+                {
+                    "id": 29782530,
+                    "name": "HOUJIROU"
+                }
+            ],
+            "al": {
+                "id": 286986836,
+                "name": "AD:HOUSE 13",
+                "picUrl": "https://p3.music.126.net/fXrgDzVdt7shPs2kASP3vQ==/109951172090048622.jpg",
+                "pic_str": "109951172090048622",
+                "pic": 109951172090048620
+            },
+            "st": 1,
+            "noCopyrightRcmd": null,
+            "artistClassics": null,
+            "songJumpInfo": null,
+            "h": {
+                "br": 320000,
+                "fid": 0,
+                "size": 9921350,
+                "vd": -49498,
+                "sr": 44100
+            },
+            "sq": {
+                "br": 977622,
+                "fid": 0,
+                "size": 30307994,
+                "vd": -49482,
+                "sr": 44100
+            },
+            "hr": null,
+            "l": {
+                "br": 128000,
+                "fid": 0,
+                "size": 3968566,
+                "vd": -45479,
+                "sr": 44100
+            },
+            "rtUrl": null,
+            "ftype": 0,
+            "rtype": 0,
+            "rurl": null,
+            "pst": 0,
+            "alia": [],
+            "pop": 20,
+            "rt": "",
+            "mst": 9,
+            "cp": 1418220,
+            "crbt": null,
+            "cf": "",
+            "djId": 0,
+            "no": 12,
+            "fee": 8,
+            "mv": 0,
+            "cd": "01",
+            "t": 0,
+            "v": 7,
+            "dt": 247976,
+            "mark": 270336,
+            "a": null,
+            "m": {
+                "br": 192000,
+                "fid": 0,
+                "size": 5952827,
+                "vd": -46941,
+                "sr": 44100
+            },
+            "name": "Just For You",
+            "id": 2751640247,
+            "privilege": {
+                "id": 2751640247,
+                "fee": 8,
+                "payed": 0,
+                "st": 0,
+                "pl": 320000,
+                "dl": 0,
+                "sp": 7,
+                "cp": 1,
+                "subp": 1,
+                "cs": false,
+                "maxbr": 999000,
+                "fl": 320000,
+                "toast": false,
+                "flag": 1540356,
+                "preSell": false,
+                "playMaxbr": 999000,
+                "downloadMaxbr": 999000,
+                "maxBrLevel": "jymaster",
+                "playMaxBrLevel": "jymaster",
+                "downloadMaxBrLevel": "jymaster",
+                "plLevel": "exhigh",
+                "dlLevel": "none",
+                "flLevel": "exhigh",
+                "rscl": null,
+                "freeTrialPrivilege": {
+                    "resConsumable": false,
+                    "userConsumable": false,
+                    "listenType": null,
+                    "cannotListenReason": null,
+                    "playReason": null,
+                    "freeLimitTagType": null
+                },
+                "rightSource": 0,
+                "chargeInfoList": [
+                    {
+                        "rate": 128000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 192000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 320000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 999000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 1
+                    }
+                ],
+                "code": 0,
+                "message": null,
+                "plLevels": null,
+                "dlLevels": null,
+                "ignoreCache": null,
+                "bd": null
+            }
+        },
+        {
+            "rtUrls": [],
+            "ar": [
+                {
+                    "id": 47028775,
+                    "name": "Musicarus"
+                }
+            ],
+            "al": {
+                "id": 286986836,
+                "name": "AD:HOUSE 13",
+                "picUrl": "https://p4.music.126.net/fXrgDzVdt7shPs2kASP3vQ==/109951172090048622.jpg",
+                "pic_str": "109951172090048622",
+                "pic": 109951172090048620
+            },
+            "st": 1,
+            "noCopyrightRcmd": null,
+            "artistClassics": null,
+            "songJumpInfo": null,
+            "h": {
+                "br": 320001,
+                "fid": 0,
+                "size": 13402950,
+                "vd": -56052,
+                "sr": 44100
+            },
+            "sq": {
+                "br": 953055,
+                "fid": 0,
+                "size": 39914749,
+                "vd": -56065,
+                "sr": 44100
+            },
+            "hr": null,
+            "l": {
+                "br": 128001,
+                "fid": 0,
+                "size": 5361206,
+                "vd": -51813,
+                "sr": 44100
+            },
+            "rtUrl": null,
+            "ftype": 0,
+            "rtype": 0,
+            "rurl": null,
+            "pst": 0,
+            "alia": [],
+            "pop": 20,
+            "rt": "",
+            "mst": 9,
+            "cp": 1418220,
+            "crbt": null,
+            "cf": "",
+            "djId": 0,
+            "no": 13,
+            "fee": 8,
+            "mv": 0,
+            "cd": "01",
+            "t": 0,
+            "v": 7,
+            "dt": 334995,
+            "mark": 270336,
+            "a": null,
+            "m": {
+                "br": 192001,
+                "fid": 0,
+                "size": 8041787,
+                "vd": -53446,
+                "sr": 44100
+            },
+            "name": "Let me...",
+            "id": 2751640248,
+            "privilege": {
+                "id": 2751640248,
+                "fee": 8,
+                "payed": 0,
+                "st": 0,
+                "pl": 320000,
+                "dl": 0,
+                "sp": 7,
+                "cp": 1,
+                "subp": 1,
+                "cs": false,
+                "maxbr": 999000,
+                "fl": 320000,
+                "toast": false,
+                "flag": 1540356,
+                "preSell": false,
+                "playMaxbr": 999000,
+                "downloadMaxbr": 999000,
+                "maxBrLevel": "jymaster",
+                "playMaxBrLevel": "jymaster",
+                "downloadMaxBrLevel": "jymaster",
+                "plLevel": "exhigh",
+                "dlLevel": "none",
+                "flLevel": "exhigh",
+                "rscl": null,
+                "freeTrialPrivilege": {
+                    "resConsumable": false,
+                    "userConsumable": false,
+                    "listenType": null,
+                    "cannotListenReason": null,
+                    "playReason": null,
+                    "freeLimitTagType": null
+                },
+                "rightSource": 0,
+                "chargeInfoList": [
+                    {
+                        "rate": 128000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 192000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 320000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 999000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 1
+                    }
+                ],
+                "code": 0,
+                "message": null,
+                "plLevels": null,
+                "dlLevels": null,
+                "ignoreCache": null,
+                "bd": null
+            }
+        },
+        {
+            "rtUrls": [],
+            "ar": [
+                {
+                    "id": 95325299,
+                    "name": "DR.VEGAS LABORATORY"
+                }
+            ],
+            "al": {
+                "id": 286986836,
+                "name": "AD:HOUSE 13",
+                "picUrl": "https://p3.music.126.net/fXrgDzVdt7shPs2kASP3vQ==/109951172090048622.jpg",
+                "pic_str": "109951172090048622",
+                "pic": 109951172090048620
+            },
+            "st": 1,
+            "noCopyrightRcmd": null,
+            "artistClassics": null,
+            "songJumpInfo": null,
+            "h": {
+                "br": 320002,
+                "fid": 0,
+                "size": 8482525,
+                "vd": -58161,
+                "sr": 44100
+            },
+            "sq": {
+                "br": 936799,
+                "fid": 0,
+                "size": 24828316,
+                "vd": -58147,
+                "sr": 44100
+            },
+            "hr": null,
+            "l": {
+                "br": 128002,
+                "fid": 0,
+                "size": 3393036,
+                "vd": -54079,
+                "sr": 44100
+            },
+            "rtUrl": null,
+            "ftype": 0,
+            "rtype": 0,
+            "rurl": null,
+            "pst": 0,
+            "alia": [],
+            "pop": 25,
+            "rt": "",
+            "mst": 9,
+            "cp": 1418220,
+            "crbt": null,
+            "cf": "",
+            "djId": 0,
+            "no": 1,
+            "fee": 8,
+            "mv": 0,
+            "cd": "02",
+            "t": 0,
+            "v": 11,
+            "dt": 211993,
+            "mark": 17180139520,
+            "a": null,
+            "m": {
+                "br": 192002,
+                "fid": 0,
+                "size": 5089533,
+                "vd": -55601,
+                "sr": 44100
+            },
+            "name": "BEFORE IT ENDS",
+            "id": 2751639583,
+            "privilege": {
+                "id": 2751639583,
+                "fee": 8,
+                "payed": 0,
+                "st": 0,
+                "pl": 320000,
+                "dl": 0,
+                "sp": 7,
+                "cp": 1,
+                "subp": 1,
+                "cs": false,
+                "maxbr": 999000,
+                "fl": 320000,
+                "toast": false,
+                "flag": 1540356,
+                "preSell": false,
+                "playMaxbr": 999000,
+                "downloadMaxbr": 999000,
+                "maxBrLevel": "jymaster",
+                "playMaxBrLevel": "jymaster",
+                "downloadMaxBrLevel": "jymaster",
+                "plLevel": "exhigh",
+                "dlLevel": "none",
+                "flLevel": "exhigh",
+                "rscl": null,
+                "freeTrialPrivilege": {
+                    "resConsumable": false,
+                    "userConsumable": false,
+                    "listenType": null,
+                    "cannotListenReason": null,
+                    "playReason": null,
+                    "freeLimitTagType": null
+                },
+                "rightSource": 0,
+                "chargeInfoList": [
+                    {
+                        "rate": 128000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 192000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 320000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 999000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 1
+                    }
+                ],
+                "code": 0,
+                "message": null,
+                "plLevels": null,
+                "dlLevels": null,
+                "ignoreCache": null,
+                "bd": null
+            }
+        },
+        {
+            "rtUrls": [],
+            "ar": [
+                {
+                    "id": 32205908,
+                    "name": "Juggernaut."
+                },
+                {
+                    "id": 50660703,
+                    "name": "SYNC"
+                }
+            ],
+            "al": {
+                "id": 286986836,
+                "name": "AD:HOUSE 13",
+                "picUrl": "https://p3.music.126.net/fXrgDzVdt7shPs2kASP3vQ==/109951172090048622.jpg",
+                "pic_str": "109951172090048622",
+                "pic": 109951172090048620
+            },
+            "st": 1,
+            "noCopyrightRcmd": null,
+            "artistClassics": null,
+            "songJumpInfo": null,
+            "h": {
+                "br": 320002,
+                "fid": 0,
+                "size": 9362329,
+                "vd": -66640,
+                "sr": 44100
+            },
+            "sq": {
+                "br": 981734,
+                "fid": 0,
+                "size": 28718301,
+                "vd": -66623,
+                "sr": 44100
+            },
+            "hr": null,
+            "l": {
+                "br": 128002,
+                "fid": 0,
+                "size": 3744958,
+                "vd": -62495,
+                "sr": 44100
+            },
+            "rtUrl": null,
+            "ftype": 0,
+            "rtype": 0,
+            "rurl": null,
+            "pst": 0,
+            "alia": [],
+            "pop": 25,
+            "rt": "",
+            "mst": 9,
+            "cp": 1418220,
+            "crbt": null,
+            "cf": "",
+            "djId": 0,
+            "no": 2,
+            "fee": 8,
+            "mv": 0,
+            "cd": "02",
+            "t": 0,
+            "v": 10,
+            "dt": 233985,
+            "mark": 270336,
+            "a": null,
+            "m": {
+                "br": 192002,
+                "fid": 0,
+                "size": 5617415,
+                "vd": -64090,
+                "sr": 44100
+            },
+            "name": "Float",
+            "id": 2751639584,
+            "privilege": {
+                "id": 2751639584,
+                "fee": 8,
+                "payed": 0,
+                "st": 0,
+                "pl": 320000,
+                "dl": 0,
+                "sp": 7,
+                "cp": 1,
+                "subp": 1,
+                "cs": false,
+                "maxbr": 999000,
+                "fl": 320000,
+                "toast": false,
+                "flag": 1540356,
+                "preSell": false,
+                "playMaxbr": 999000,
+                "downloadMaxbr": 999000,
+                "maxBrLevel": "jymaster",
+                "playMaxBrLevel": "jymaster",
+                "downloadMaxBrLevel": "jymaster",
+                "plLevel": "exhigh",
+                "dlLevel": "none",
+                "flLevel": "exhigh",
+                "rscl": null,
+                "freeTrialPrivilege": {
+                    "resConsumable": false,
+                    "userConsumable": false,
+                    "listenType": null,
+                    "cannotListenReason": null,
+                    "playReason": null,
+                    "freeLimitTagType": null
+                },
+                "rightSource": 0,
+                "chargeInfoList": [
+                    {
+                        "rate": 128000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 192000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 320000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 999000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 1
+                    }
+                ],
+                "code": 0,
+                "message": null,
+                "plLevels": null,
+                "dlLevels": null,
+                "ignoreCache": null,
+                "bd": null
+            }
+        },
+        {
+            "rtUrls": [],
+            "ar": [
+                {
+                    "id": 18699,
+                    "name": "Kenichi Chiba"
+                },
+                {
+                    "id": 0,
+                    "name": "Yonca"
+                }
+            ],
+            "al": {
+                "id": 286986836,
+                "name": "AD:HOUSE 13",
+                "picUrl": "https://p4.music.126.net/fXrgDzVdt7shPs2kASP3vQ==/109951172090048622.jpg",
+                "pic_str": "109951172090048622",
+                "pic": 109951172090048620
+            },
+            "st": 1,
+            "noCopyrightRcmd": null,
+            "artistClassics": null,
+            "songJumpInfo": null,
+            "h": {
+                "br": 320000,
+                "fid": 0,
+                "size": 9841938,
+                "vd": -50269,
+                "sr": 44100
+            },
+            "sq": {
+                "br": 923618,
+                "fid": 0,
+                "size": 28405119,
+                "vd": -50246,
+                "sr": 44100
+            },
+            "hr": null,
+            "l": {
+                "br": 128000,
+                "fid": 0,
+                "size": 3936801,
+                "vd": -46655,
+                "sr": 44100
+            },
+            "rtUrl": null,
+            "ftype": 0,
+            "rtype": 0,
+            "rurl": null,
+            "pst": 0,
+            "alia": [],
+            "pop": 20,
+            "rt": "",
+            "mst": 9,
+            "cp": 1418220,
+            "crbt": null,
+            "cf": "",
+            "djId": 0,
+            "no": 3,
+            "fee": 8,
+            "mv": 0,
+            "cd": "02",
+            "t": 0,
+            "v": 12,
+            "dt": 245994,
+            "mark": 17180139520,
+            "a": null,
+            "m": {
+                "br": 192000,
+                "fid": 0,
+                "size": 5905180,
+                "vd": -47823,
+                "sr": 44100
+            },
+            "name": "KEEP ON DANCIN'",
+            "id": 2751640249,
+            "privilege": {
+                "id": 2751640249,
+                "fee": 8,
+                "payed": 0,
+                "st": 0,
+                "pl": 320000,
+                "dl": 0,
+                "sp": 7,
+                "cp": 1,
+                "subp": 1,
+                "cs": false,
+                "maxbr": 999000,
+                "fl": 320000,
+                "toast": false,
+                "flag": 1540356,
+                "preSell": false,
+                "playMaxbr": 999000,
+                "downloadMaxbr": 999000,
+                "maxBrLevel": "jymaster",
+                "playMaxBrLevel": "jymaster",
+                "downloadMaxBrLevel": "jymaster",
+                "plLevel": "exhigh",
+                "dlLevel": "none",
+                "flLevel": "exhigh",
+                "rscl": null,
+                "freeTrialPrivilege": {
+                    "resConsumable": false,
+                    "userConsumable": false,
+                    "listenType": null,
+                    "cannotListenReason": null,
+                    "playReason": null,
+                    "freeLimitTagType": null
+                },
+                "rightSource": 0,
+                "chargeInfoList": [
+                    {
+                        "rate": 128000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 192000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 320000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 999000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 1
+                    }
+                ],
+                "code": 0,
+                "message": null,
+                "plLevels": null,
+                "dlLevels": null,
+                "ignoreCache": null,
+                "bd": null
+            }
+        },
+        {
+            "rtUrls": [],
+            "ar": [
+                {
+                    "id": 54703947,
+                    "name": "Nekomanma",
+                    "alia": [
+                        "oishii-nekomanma"
+                    ]
+                }
+            ],
+            "al": {
+                "id": 286986836,
+                "name": "AD:HOUSE 13",
+                "picUrl": "https://p3.music.126.net/fXrgDzVdt7shPs2kASP3vQ==/109951172090048622.jpg",
+                "pic_str": "109951172090048622",
+                "pic": 109951172090048620
+            },
+            "st": 1,
+            "noCopyrightRcmd": null,
+            "artistClassics": null,
+            "songJumpInfo": null,
+            "h": {
+                "br": 320000,
+                "fid": 0,
+                "size": 9319489,
+                "vd": -56582,
+                "sr": 44100
+            },
+            "sq": {
+                "br": 1055740,
+                "fid": 0,
+                "size": 30741285,
+                "vd": -56512,
+                "sr": 44100
+            },
+            "hr": null,
+            "l": {
+                "br": 128000,
+                "fid": 0,
+                "size": 3727822,
+                "vd": -53107,
+                "sr": 44100
+            },
+            "rtUrl": null,
+            "ftype": 0,
+            "rtype": 0,
+            "rurl": null,
+            "pst": 0,
+            "alia": [],
+            "pop": 20,
+            "rt": "",
+            "mst": 9,
+            "cp": 1418220,
+            "crbt": null,
+            "cf": "",
+            "djId": 0,
+            "no": 4,
+            "fee": 8,
+            "mv": 0,
+            "cd": "02",
+            "t": 0,
+            "v": 11,
+            "dt": 232913,
+            "mark": 17180139520,
+            "a": null,
+            "m": {
+                "br": 192000,
+                "fid": 0,
+                "size": 5591711,
+                "vd": -54163,
+                "sr": 44100
+            },
+            "name": "Let Us Runaway",
+            "id": 2751639585,
+            "privilege": {
+                "id": 2751639585,
+                "fee": 8,
+                "payed": 0,
+                "st": 0,
+                "pl": 320000,
+                "dl": 0,
+                "sp": 7,
+                "cp": 1,
+                "subp": 1,
+                "cs": false,
+                "maxbr": 999000,
+                "fl": 320000,
+                "toast": false,
+                "flag": 1540356,
+                "preSell": false,
+                "playMaxbr": 999000,
+                "downloadMaxbr": 999000,
+                "maxBrLevel": "jymaster",
+                "playMaxBrLevel": "jymaster",
+                "downloadMaxBrLevel": "jymaster",
+                "plLevel": "exhigh",
+                "dlLevel": "none",
+                "flLevel": "exhigh",
+                "rscl": null,
+                "freeTrialPrivilege": {
+                    "resConsumable": false,
+                    "userConsumable": false,
+                    "listenType": null,
+                    "cannotListenReason": null,
+                    "playReason": null,
+                    "freeLimitTagType": null
+                },
+                "rightSource": 0,
+                "chargeInfoList": [
+                    {
+                        "rate": 128000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 192000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 320000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 999000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 1
+                    }
+                ],
+                "code": 0,
+                "message": null,
+                "plLevels": null,
+                "dlLevels": null,
+                "ignoreCache": null,
+                "bd": null
+            }
+        },
+        {
+            "rtUrls": [],
+            "ar": [
+                {
+                    "id": 28676397,
+                    "name": "MK (JPN)",
+                    "tns": [
+                        "影山正和"
+                    ],
+                    "alia": [
+                        "Shadw",
+                        "きりん",
+                        "Autobahn",
+                        "Masakazu Kageyama"
+                    ]
+                }
+            ],
+            "al": {
+                "id": 286986836,
+                "name": "AD:HOUSE 13",
+                "picUrl": "https://p3.music.126.net/fXrgDzVdt7shPs2kASP3vQ==/109951172090048622.jpg",
+                "pic_str": "109951172090048622",
+                "pic": 109951172090048620
+            },
+            "st": 1,
+            "noCopyrightRcmd": null,
+            "artistClassics": null,
+            "songJumpInfo": null,
+            "h": {
+                "br": 320002,
+                "fid": 0,
+                "size": 9282917,
+                "vd": -61154,
+                "sr": 44100
+            },
+            "sq": {
+                "br": 1076062,
+                "fid": 0,
+                "size": 31211535,
+                "vd": -61122,
+                "sr": 44100
+            },
+            "hr": null,
+            "l": {
+                "br": 128002,
+                "fid": 0,
+                "size": 3713193,
+                "vd": -57521,
+                "sr": 44100
+            },
+            "rtUrl": null,
+            "ftype": 0,
+            "rtype": 0,
+            "rurl": null,
+            "pst": 0,
+            "alia": [],
+            "pop": 20,
+            "rt": "",
+            "mst": 9,
+            "cp": 1418220,
+            "crbt": null,
+            "cf": "",
+            "djId": 0,
+            "no": 5,
+            "fee": 8,
+            "mv": 0,
+            "cd": "02",
+            "t": 0,
+            "v": 10,
+            "dt": 232010,
+            "mark": 270336,
+            "a": null,
+            "m": {
+                "br": 192002,
+                "fid": 0,
+                "size": 5569768,
+                "vd": -58702,
+                "sr": 44100
+            },
+            "name": "Vele",
+            "id": 2751639586,
+            "privilege": {
+                "id": 2751639586,
+                "fee": 8,
+                "payed": 0,
+                "st": 0,
+                "pl": 320000,
+                "dl": 0,
+                "sp": 7,
+                "cp": 1,
+                "subp": 1,
+                "cs": false,
+                "maxbr": 999000,
+                "fl": 320000,
+                "toast": false,
+                "flag": 1540356,
+                "preSell": false,
+                "playMaxbr": 999000,
+                "downloadMaxbr": 999000,
+                "maxBrLevel": "jymaster",
+                "playMaxBrLevel": "jymaster",
+                "downloadMaxBrLevel": "jymaster",
+                "plLevel": "exhigh",
+                "dlLevel": "none",
+                "flLevel": "exhigh",
+                "rscl": null,
+                "freeTrialPrivilege": {
+                    "resConsumable": false,
+                    "userConsumable": false,
+                    "listenType": null,
+                    "cannotListenReason": null,
+                    "playReason": null,
+                    "freeLimitTagType": null
+                },
+                "rightSource": 0,
+                "chargeInfoList": [
+                    {
+                        "rate": 128000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 192000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 320000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 999000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 1
+                    }
+                ],
+                "code": 0,
+                "message": null,
+                "plLevels": null,
+                "dlLevels": null,
+                "ignoreCache": null,
+                "bd": null
+            }
+        },
+        {
+            "rtUrls": [],
+            "ar": [
+                {
+                    "id": 0,
+                    "name": "Malcha"
+                }
+            ],
+            "al": {
+                "id": 286986836,
+                "name": "AD:HOUSE 13",
+                "picUrl": "https://p4.music.126.net/fXrgDzVdt7shPs2kASP3vQ==/109951172090048622.jpg",
+                "pic_str": "109951172090048622",
+                "pic": 109951172090048620
+            },
+            "st": 1,
+            "noCopyrightRcmd": null,
+            "artistClassics": null,
+            "songJumpInfo": null,
+            "h": {
+                "br": 320002,
+                "fid": 0,
+                "size": 9482493,
+                "vd": -49158,
+                "sr": 44100
+            },
+            "sq": {
+                "br": 1020546,
+                "fid": 0,
+                "size": 30238672,
+                "vd": -49126,
+                "sr": 44100
+            },
+            "hr": null,
+            "l": {
+                "br": 128002,
+                "fid": 0,
+                "size": 3793023,
+                "vd": -45380,
+                "sr": 44100
+            },
+            "rtUrl": null,
+            "ftype": 0,
+            "rtype": 0,
+            "rurl": null,
+            "pst": 0,
+            "alia": [],
+            "pop": 15,
+            "rt": "",
+            "mst": 9,
+            "cp": 1418220,
+            "crbt": null,
+            "cf": "",
+            "djId": 0,
+            "no": 6,
+            "fee": 8,
+            "mv": 0,
+            "cd": "02",
+            "t": 0,
+            "v": 11,
+            "dt": 237004,
+            "mark": 17180139520,
+            "a": null,
+            "m": {
+                "br": 192002,
+                "fid": 0,
+                "size": 5689513,
+                "vd": -46702,
+                "sr": 44100
+            },
+            "name": "Darling",
+            "id": 2751639587,
+            "privilege": {
+                "id": 2751639587,
+                "fee": 8,
+                "payed": 0,
+                "st": 0,
+                "pl": 320000,
+                "dl": 0,
+                "sp": 7,
+                "cp": 1,
+                "subp": 1,
+                "cs": false,
+                "maxbr": 999000,
+                "fl": 320000,
+                "toast": false,
+                "flag": 1540356,
+                "preSell": false,
+                "playMaxbr": 999000,
+                "downloadMaxbr": 999000,
+                "maxBrLevel": "jymaster",
+                "playMaxBrLevel": "jymaster",
+                "downloadMaxBrLevel": "jymaster",
+                "plLevel": "exhigh",
+                "dlLevel": "none",
+                "flLevel": "exhigh",
+                "rscl": null,
+                "freeTrialPrivilege": {
+                    "resConsumable": false,
+                    "userConsumable": false,
+                    "listenType": null,
+                    "cannotListenReason": null,
+                    "playReason": null,
+                    "freeLimitTagType": null
+                },
+                "rightSource": 0,
+                "chargeInfoList": [
+                    {
+                        "rate": 128000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 192000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 320000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 999000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 1
+                    }
+                ],
+                "code": 0,
+                "message": null,
+                "plLevels": null,
+                "dlLevels": null,
+                "ignoreCache": null,
+                "bd": null
+            }
+        },
+        {
+            "rtUrls": [],
+            "ar": [
+                {
+                    "id": 12694178,
+                    "name": "KO3"
+                }
+            ],
+            "al": {
+                "id": 286986836,
+                "name": "AD:HOUSE 13",
+                "picUrl": "https://p3.music.126.net/fXrgDzVdt7shPs2kASP3vQ==/109951172090048622.jpg",
+                "pic_str": "109951172090048622",
+                "pic": 109951172090048620
+            },
+            "st": 1,
+            "noCopyrightRcmd": null,
+            "artistClassics": null,
+            "songJumpInfo": null,
+            "h": {
+                "br": 320001,
+                "fid": 0,
+                "size": 9802231,
+                "vd": -48713,
+                "sr": 44100
+            },
+            "sq": {
+                "br": 1029517,
+                "fid": 0,
+                "size": 31532476,
+                "vd": -48635,
+                "sr": 44100
+            },
+            "hr": null,
+            "l": {
+                "br": 128001,
+                "fid": 0,
+                "size": 3920919,
+                "vd": -45139,
+                "sr": 44100
+            },
+            "rtUrl": null,
+            "ftype": 0,
+            "rtype": 0,
+            "rurl": null,
+            "pst": 0,
+            "alia": [],
+            "pop": 20,
+            "rt": "",
+            "mst": 9,
+            "cp": 1418220,
+            "crbt": null,
+            "cf": "",
+            "djId": 0,
+            "no": 7,
+            "fee": 8,
+            "mv": 0,
+            "cd": "02",
+            "t": 0,
+            "v": 11,
+            "dt": 244992,
+            "mark": 17180139520,
+            "a": null,
+            "m": {
+                "br": 192001,
+                "fid": 0,
+                "size": 5881356,
+                "vd": -46362,
+                "sr": 44100
+            },
+            "name": "Combo",
+            "id": 2751639588,
+            "privilege": {
+                "id": 2751639588,
+                "fee": 8,
+                "payed": 0,
+                "st": 0,
+                "pl": 320000,
+                "dl": 0,
+                "sp": 7,
+                "cp": 1,
+                "subp": 1,
+                "cs": false,
+                "maxbr": 999000,
+                "fl": 320000,
+                "toast": false,
+                "flag": 1540356,
+                "preSell": false,
+                "playMaxbr": 999000,
+                "downloadMaxbr": 999000,
+                "maxBrLevel": "jymaster",
+                "playMaxBrLevel": "jymaster",
+                "downloadMaxBrLevel": "jymaster",
+                "plLevel": "exhigh",
+                "dlLevel": "none",
+                "flLevel": "exhigh",
+                "rscl": null,
+                "freeTrialPrivilege": {
+                    "resConsumable": false,
+                    "userConsumable": false,
+                    "listenType": null,
+                    "cannotListenReason": null,
+                    "playReason": null,
+                    "freeLimitTagType": null
+                },
+                "rightSource": 0,
+                "chargeInfoList": [
+                    {
+                        "rate": 128000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 192000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 320000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 999000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 1
+                    }
+                ],
+                "code": 0,
+                "message": null,
+                "plLevels": null,
+                "dlLevels": null,
+                "ignoreCache": null,
+                "bd": null
+            }
+        },
+        {
+            "rtUrls": [],
+            "ar": [
+                {
+                    "id": 0,
+                    "name": "NGA"
+                }
+            ],
+            "al": {
+                "id": 286986836,
+                "name": "AD:HOUSE 13",
+                "picUrl": "https://p3.music.126.net/fXrgDzVdt7shPs2kASP3vQ==/109951172090048622.jpg",
+                "pic_str": "109951172090048622",
+                "pic": 109951172090048620
+            },
+            "st": 1,
+            "noCopyrightRcmd": null,
+            "artistClassics": null,
+            "songJumpInfo": null,
+            "h": {
+                "br": 320000,
+                "fid": 0,
+                "size": 11041480,
+                "vd": -54776,
+                "sr": 44100
+            },
+            "sq": {
+                "br": 1019216,
+                "fid": 0,
+                "size": 35165411,
+                "vd": -54719,
+                "sr": 44100
+            },
+            "hr": null,
+            "l": {
+                "br": 128000,
+                "fid": 0,
+                "size": 4416618,
+                "vd": -50913,
+                "sr": 44100
+            },
+            "rtUrl": null,
+            "ftype": 0,
+            "rtype": 0,
+            "rurl": null,
+            "pst": 0,
+            "alia": [],
+            "pop": 15,
+            "rt": "",
+            "mst": 9,
+            "cp": 1418220,
+            "crbt": null,
+            "cf": "",
+            "djId": 0,
+            "no": 8,
+            "fee": 8,
+            "mv": 0,
+            "cd": "02",
+            "t": 0,
+            "v": 11,
+            "dt": 275979,
+            "mark": 17180139520,
+            "a": null,
+            "m": {
+                "br": 192000,
+                "fid": 0,
+                "size": 6624906,
+                "vd": -52314,
+                "sr": 44100
+            },
+            "name": "Gin Buck",
+            "id": 2751639589,
+            "privilege": {
+                "id": 2751639589,
+                "fee": 8,
+                "payed": 0,
+                "st": 0,
+                "pl": 320000,
+                "dl": 0,
+                "sp": 7,
+                "cp": 1,
+                "subp": 1,
+                "cs": false,
+                "maxbr": 999000,
+                "fl": 320000,
+                "toast": false,
+                "flag": 1540356,
+                "preSell": false,
+                "playMaxbr": 999000,
+                "downloadMaxbr": 999000,
+                "maxBrLevel": "jymaster",
+                "playMaxBrLevel": "jymaster",
+                "downloadMaxBrLevel": "jymaster",
+                "plLevel": "exhigh",
+                "dlLevel": "none",
+                "flLevel": "exhigh",
+                "rscl": null,
+                "freeTrialPrivilege": {
+                    "resConsumable": false,
+                    "userConsumable": false,
+                    "listenType": null,
+                    "cannotListenReason": null,
+                    "playReason": null,
+                    "freeLimitTagType": null
+                },
+                "rightSource": 0,
+                "chargeInfoList": [
+                    {
+                        "rate": 128000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 192000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 320000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 999000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 1
+                    }
+                ],
+                "code": 0,
+                "message": null,
+                "plLevels": null,
+                "dlLevels": null,
+                "ignoreCache": null,
+                "bd": null
+            }
+        },
+        {
+            "rtUrls": [],
+            "ar": [
+                {
+                    "id": 58075207,
+                    "name": "N_dog"
+                }
+            ],
+            "al": {
+                "id": 286986836,
+                "name": "AD:HOUSE 13",
+                "picUrl": "https://p3.music.126.net/fXrgDzVdt7shPs2kASP3vQ==/109951172090048622.jpg",
+                "pic_str": "109951172090048622",
+                "pic": 109951172090048620
+            },
+            "st": 1,
+            "noCopyrightRcmd": null,
+            "artistClassics": null,
+            "songJumpInfo": null,
+            "h": {
+                "br": 320001,
+                "fid": 0,
+                "size": 9802231,
+                "vd": -54892,
+                "sr": 44100
+            },
+            "sq": {
+                "br": 983514,
+                "fid": 0,
+                "size": 30123525,
+                "vd": -54854,
+                "sr": 44100
+            },
+            "hr": null,
+            "l": {
+                "br": 128001,
+                "fid": 0,
+                "size": 3920919,
+                "vd": -51203,
+                "sr": 44100
+            },
+            "rtUrl": null,
+            "ftype": 0,
+            "rtype": 0,
+            "rurl": null,
+            "pst": 0,
+            "alia": [],
+            "pop": 25,
+            "rt": "",
+            "mst": 9,
+            "cp": 1418220,
+            "crbt": null,
+            "cf": "",
+            "djId": 0,
+            "no": 9,
+            "fee": 8,
+            "mv": 0,
+            "cd": "02",
+            "t": 0,
+            "v": 11,
+            "dt": 244991,
+            "mark": 17180139520,
+            "a": null,
+            "m": {
+                "br": 192001,
+                "fid": 0,
+                "size": 5881356,
+                "vd": -52499,
+                "sr": 44100
+            },
+            "name": "Come Here Tonight",
+            "id": 2751640250,
+            "privilege": {
+                "id": 2751640250,
+                "fee": 8,
+                "payed": 0,
+                "st": 0,
+                "pl": 320000,
+                "dl": 0,
+                "sp": 7,
+                "cp": 1,
+                "subp": 1,
+                "cs": false,
+                "maxbr": 999000,
+                "fl": 320000,
+                "toast": false,
+                "flag": 1540356,
+                "preSell": false,
+                "playMaxbr": 999000,
+                "downloadMaxbr": 999000,
+                "maxBrLevel": "jymaster",
+                "playMaxBrLevel": "jymaster",
+                "downloadMaxBrLevel": "jymaster",
+                "plLevel": "exhigh",
+                "dlLevel": "none",
+                "flLevel": "exhigh",
+                "rscl": null,
+                "freeTrialPrivilege": {
+                    "resConsumable": false,
+                    "userConsumable": false,
+                    "listenType": null,
+                    "cannotListenReason": null,
+                    "playReason": null,
+                    "freeLimitTagType": null
+                },
+                "rightSource": 0,
+                "chargeInfoList": [
+                    {
+                        "rate": 128000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 192000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 320000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 999000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 1
+                    }
+                ],
+                "code": 0,
+                "message": null,
+                "plLevels": null,
+                "dlLevels": null,
+                "ignoreCache": null,
+                "bd": null
+            }
+        },
+        {
+            "rtUrls": [],
+            "ar": [
+                {
+                    "id": 60761841,
+                    "name": "KONPEKi"
+                }
+            ],
+            "al": {
+                "id": 286986836,
+                "name": "AD:HOUSE 13",
+                "picUrl": "https://p4.music.126.net/fXrgDzVdt7shPs2kASP3vQ==/109951172090048622.jpg",
+                "pic_str": "109951172090048622",
+                "pic": 109951172090048620
+            },
+            "st": 1,
+            "noCopyrightRcmd": null,
+            "artistClassics": null,
+            "songJumpInfo": null,
+            "h": {
+                "br": 320001,
+                "fid": 0,
+                "size": 10042558,
+                "vd": -67439,
+                "sr": 44100
+            },
+            "sq": {
+                "br": 960189,
+                "fid": 0,
+                "size": 30129661,
+                "vd": -67436,
+                "sr": 44100
+            },
+            "hr": null,
+            "l": {
+                "br": 128001,
+                "fid": 0,
+                "size": 4017049,
+                "vd": -63076,
+                "sr": 44100
+            },
+            "rtUrl": null,
+            "ftype": 0,
+            "rtype": 0,
+            "rurl": null,
+            "pst": 0,
+            "alia": [],
+            "pop": 25,
+            "rt": "",
+            "mst": 9,
+            "cp": 1418220,
+            "crbt": null,
+            "cf": "",
+            "djId": 0,
+            "no": 10,
+            "fee": 8,
+            "mv": 0,
+            "cd": "02",
+            "t": 0,
+            "v": 11,
+            "dt": 250992,
+            "mark": 17180139520,
+            "a": null,
+            "m": {
+                "br": 192001,
+                "fid": 0,
+                "size": 6025552,
+                "vd": -64820,
+                "sr": 44100
+            },
+            "name": "Midnight Pulse",
+            "id": 2751639590,
+            "privilege": {
+                "id": 2751639590,
+                "fee": 8,
+                "payed": 0,
+                "st": 0,
+                "pl": 320000,
+                "dl": 0,
+                "sp": 7,
+                "cp": 1,
+                "subp": 1,
+                "cs": false,
+                "maxbr": 999000,
+                "fl": 320000,
+                "toast": false,
+                "flag": 1540356,
+                "preSell": false,
+                "playMaxbr": 999000,
+                "downloadMaxbr": 999000,
+                "maxBrLevel": "jymaster",
+                "playMaxBrLevel": "jymaster",
+                "downloadMaxBrLevel": "jymaster",
+                "plLevel": "exhigh",
+                "dlLevel": "none",
+                "flLevel": "exhigh",
+                "rscl": null,
+                "freeTrialPrivilege": {
+                    "resConsumable": false,
+                    "userConsumable": false,
+                    "listenType": null,
+                    "cannotListenReason": null,
+                    "playReason": null,
+                    "freeLimitTagType": null
+                },
+                "rightSource": 0,
+                "chargeInfoList": [
+                    {
+                        "rate": 128000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 192000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 320000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 999000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 1
+                    }
+                ],
+                "code": 0,
+                "message": null,
+                "plLevels": null,
+                "dlLevels": null,
+                "ignoreCache": null,
+                "bd": null
+            }
+        },
+        {
+            "rtUrls": [],
+            "ar": [
+                {
+                    "id": 51391259,
+                    "name": "Error Signal"
+                }
+            ],
+            "al": {
+                "id": 286986836,
+                "name": "AD:HOUSE 13",
+                "picUrl": "https://p4.music.126.net/fXrgDzVdt7shPs2kASP3vQ==/109951172090048622.jpg",
+                "pic_str": "109951172090048622",
+                "pic": 109951172090048620
+            },
+            "st": 1,
+            "noCopyrightRcmd": null,
+            "artistClassics": null,
+            "songJumpInfo": null,
+            "h": {
+                "br": 320002,
+                "fid": 0,
+                "size": 9642362,
+                "vd": -39700,
+                "sr": 44100
+            },
+            "sq": {
+                "br": 921747,
+                "fid": 0,
+                "size": 27771586,
+                "vd": -39680,
+                "sr": 44100
+            },
+            "hr": null,
+            "l": {
+                "br": 128002,
+                "fid": 0,
+                "size": 3856971,
+                "vd": -35463,
+                "sr": 44100
+            },
+            "rtUrl": null,
+            "ftype": 0,
+            "rtype": 0,
+            "rurl": null,
+            "pst": 0,
+            "alia": [],
+            "pop": 20,
+            "rt": "",
+            "mst": 9,
+            "cp": 1418220,
+            "crbt": null,
+            "cf": "",
+            "djId": 0,
+            "no": 11,
+            "fee": 8,
+            "mv": 0,
+            "cd": "02",
+            "t": 0,
+            "v": 11,
+            "dt": 240996,
+            "mark": 17180139520,
+            "a": null,
+            "m": {
+                "br": 192002,
+                "fid": 0,
+                "size": 5785435,
+                "vd": -37155,
+                "sr": 44100
+            },
+            "name": "Kick It",
+            "id": 2751639591,
+            "privilege": {
+                "id": 2751639591,
+                "fee": 8,
+                "payed": 0,
+                "st": 0,
+                "pl": 320000,
+                "dl": 0,
+                "sp": 7,
+                "cp": 1,
+                "subp": 1,
+                "cs": false,
+                "maxbr": 999000,
+                "fl": 320000,
+                "toast": false,
+                "flag": 1540356,
+                "preSell": false,
+                "playMaxbr": 999000,
+                "downloadMaxbr": 999000,
+                "maxBrLevel": "jymaster",
+                "playMaxBrLevel": "jymaster",
+                "downloadMaxBrLevel": "jymaster",
+                "plLevel": "exhigh",
+                "dlLevel": "none",
+                "flLevel": "exhigh",
+                "rscl": null,
+                "freeTrialPrivilege": {
+                    "resConsumable": false,
+                    "userConsumable": false,
+                    "listenType": null,
+                    "cannotListenReason": null,
+                    "playReason": null,
+                    "freeLimitTagType": null
+                },
+                "rightSource": 0,
+                "chargeInfoList": [
+                    {
+                        "rate": 128000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 192000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 320000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 999000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 1
+                    }
+                ],
+                "code": 0,
+                "message": null,
+                "plLevels": null,
+                "dlLevels": null,
+                "ignoreCache": null,
+                "bd": null
+            }
+        },
+        {
+            "rtUrls": [],
+            "ar": [
+                {
+                    "id": 34167036,
+                    "name": "Tomoki Hirata"
+                },
+                {
+                    "id": 47814870,
+                    "name": "Crystal Mint"
+                }
+            ],
+            "al": {
+                "id": 286986836,
+                "name": "AD:HOUSE 13",
+                "picUrl": "https://p4.music.126.net/fXrgDzVdt7shPs2kASP3vQ==/109951172090048622.jpg",
+                "pic_str": "109951172090048622",
+                "pic": 109951172090048620
+            },
+            "st": 1,
+            "noCopyrightRcmd": null,
+            "artistClassics": null,
+            "songJumpInfo": null,
+            "h": {
+                "br": 320002,
+                "fid": 0,
+                "size": 9123048,
+                "vd": -34676,
+                "sr": 44100
+            },
+            "sq": {
+                "br": 883204,
+                "fid": 0,
+                "size": 25175370,
+                "vd": -34639,
+                "sr": 44100
+            },
+            "hr": null,
+            "l": {
+                "br": 128002,
+                "fid": 0,
+                "size": 3649245,
+                "vd": -31167,
+                "sr": 44100
+            },
+            "rtUrl": null,
+            "ftype": 0,
+            "rtype": 0,
+            "rurl": null,
+            "pst": 0,
+            "alia": [],
+            "pop": 15,
+            "rt": "",
+            "mst": 9,
+            "cp": 1418220,
+            "crbt": null,
+            "cf": "",
+            "djId": 0,
+            "no": 12,
+            "fee": 8,
+            "mv": 0,
+            "cd": "02",
+            "t": 0,
+            "v": 11,
+            "dt": 227998,
+            "mark": 270336,
+            "a": null,
+            "m": {
+                "br": 192002,
+                "fid": 0,
+                "size": 5473846,
+                "vd": -32311,
+                "sr": 44100
+            },
+            "name": "Miracle Night",
+            "id": 2751640251,
+            "privilege": {
+                "id": 2751640251,
+                "fee": 8,
+                "payed": 0,
+                "st": 0,
+                "pl": 320000,
+                "dl": 0,
+                "sp": 7,
+                "cp": 1,
+                "subp": 1,
+                "cs": false,
+                "maxbr": 999000,
+                "fl": 320000,
+                "toast": false,
+                "flag": 1540356,
+                "preSell": false,
+                "playMaxbr": 999000,
+                "downloadMaxbr": 999000,
+                "maxBrLevel": "jymaster",
+                "playMaxBrLevel": "jymaster",
+                "downloadMaxBrLevel": "jymaster",
+                "plLevel": "exhigh",
+                "dlLevel": "none",
+                "flLevel": "exhigh",
+                "rscl": null,
+                "freeTrialPrivilege": {
+                    "resConsumable": false,
+                    "userConsumable": false,
+                    "listenType": null,
+                    "cannotListenReason": null,
+                    "playReason": null,
+                    "freeLimitTagType": null
+                },
+                "rightSource": 0,
+                "chargeInfoList": [
+                    {
+                        "rate": 128000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 192000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 320000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 999000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 1
+                    }
+                ],
+                "code": 0,
+                "message": null,
+                "plLevels": null,
+                "dlLevels": null,
+                "ignoreCache": null,
+                "bd": null
+            }
+        },
+        {
+            "rtUrls": [],
+            "ar": [
+                {
+                    "id": 0,
+                    "name": "Glancia"
+                }
+            ],
+            "al": {
+                "id": 286986836,
+                "name": "AD:HOUSE 13",
+                "picUrl": "https://p3.music.126.net/fXrgDzVdt7shPs2kASP3vQ==/109951172090048622.jpg",
+                "pic_str": "109951172090048622",
+                "pic": 109951172090048620
+            },
+            "st": 1,
+            "noCopyrightRcmd": null,
+            "artistClassics": null,
+            "songJumpInfo": null,
+            "h": {
+                "br": 320001,
+                "fid": 0,
+                "size": 10042558,
+                "vd": -47933,
+                "sr": 44100
+            },
+            "sq": {
+                "br": 965587,
+                "fid": 0,
+                "size": 30299036,
+                "vd": -47915,
+                "sr": 44100
+            },
+            "hr": null,
+            "l": {
+                "br": 128001,
+                "fid": 0,
+                "size": 4017049,
+                "vd": -43834,
+                "sr": 44100
+            },
+            "rtUrl": null,
+            "ftype": 0,
+            "rtype": 0,
+            "rurl": null,
+            "pst": 0,
+            "alia": [],
+            "pop": 15,
+            "rt": "",
+            "mst": 9,
+            "cp": 1418220,
+            "crbt": null,
+            "cf": "",
+            "djId": 0,
+            "no": 13,
+            "fee": 8,
+            "mv": 0,
+            "cd": "02",
+            "t": 0,
+            "v": 11,
+            "dt": 250992,
+            "mark": 17180139520,
+            "a": null,
+            "m": {
+                "br": 192001,
+                "fid": 0,
+                "size": 6025552,
+                "vd": -45377,
+                "sr": 44100
+            },
+            "name": "Clyra'02",
+            "id": 2751640252,
+            "privilege": {
+                "id": 2751640252,
+                "fee": 8,
+                "payed": 0,
+                "st": 0,
+                "pl": 320000,
+                "dl": 0,
+                "sp": 7,
+                "cp": 1,
+                "subp": 1,
+                "cs": false,
+                "maxbr": 999000,
+                "fl": 320000,
+                "toast": false,
+                "flag": 1540356,
+                "preSell": false,
+                "playMaxbr": 999000,
+                "downloadMaxbr": 999000,
+                "maxBrLevel": "jymaster",
+                "playMaxBrLevel": "jymaster",
+                "downloadMaxBrLevel": "jymaster",
+                "plLevel": "exhigh",
+                "dlLevel": "none",
+                "flLevel": "exhigh",
+                "rscl": null,
+                "freeTrialPrivilege": {
+                    "resConsumable": false,
+                    "userConsumable": false,
+                    "listenType": null,
+                    "cannotListenReason": null,
+                    "playReason": null,
+                    "freeLimitTagType": null
+                },
+                "rightSource": 0,
+                "chargeInfoList": [
+                    {
+                        "rate": 128000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 192000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 320000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 0
+                    },
+                    {
+                        "rate": 999000,
+                        "chargeUrl": null,
+                        "chargeMessage": null,
+                        "chargeType": 1
+                    }
+                ],
+                "code": 0,
+                "message": null,
+                "plLevels": null,
+                "dlLevels": null,
+                "ignoreCache": null,
+                "bd": null
+            }
+        }
+    ],
+    "code": 200,
+    "album": {
+        "songs": [],
+        "paid": false,
+        "onSale": false,
+        "mark": 8192,
+        "awardTags": null,
+        "displayTags": null,
+        "artists": [
+            {
+                "img1v1Id": 18686200114669624,
+                "topicPerson": 0,
+                "picId": 0,
+                "followed": false,
+                "briefDesc": "",
+                "musicSize": 0,
+                "albumSize": 0,
+                "picUrl": "",
+                "trans": "",
+                "img1v1Url": "https://p3.music.126.net/VnZiScyynLG7atLIZ2YPkw==/18686200114669622.jpg",
+                "alias": [],
+                "name": "V.A.",
+                "id": 21138,
+                "img1v1Id_str": "18686200114669622"
+            }
+        ],
+        "copyrightId": 1418220,
+        "picId": 109951172090048620,
+        "artist": {
+            "img1v1Id": 109951166117776740,
+            "topicPerson": 0,
+            "picId": 109951163805681800,
+            "followed": false,
+            "briefDesc": "",
+            "musicSize": 619481,
+            "albumSize": 31586,
+            "picUrl": "https://p4.music.126.net/PiAa3TTxGruRPa1hwsQ_ow==/109951163805681797.jpg",
+            "trans": "",
+            "img1v1Url": "https://p3.music.126.net/S3JPepCT3vMOKUWs71iHLA==/109951166117776739.jpg",
+            "alias": [
+                "日韩群星"
+            ],
+            "name": "V.A.",
+            "id": 21138,
+            "picId_str": "109951163805681797",
+            "img1v1Id_str": "109951166117776739"
+        },
+        "briefDesc": "",
+        "publishTime": 1755360000000,
+        "company": "Diverse System",
+        "picUrl": "https://p4.music.126.net/fXrgDzVdt7shPs2kASP3vQ==/109951172090048622.jpg",
+        "blurPicUrl": "https://p4.music.126.net/fXrgDzVdt7shPs2kASP3vQ==/109951172090048622.jpg",
+        "companyId": 0,
+        "pic": 109951172090048620,
+        "commentThreadId": "R_AL_3_286986836",
+        "subType": "录音室版",
+        "status": 1,
+        "description": "",
+        "tags": "",
+        "alias": [],
+        "name": "AD:HOUSE 13",
+        "id": 286986836,
+        "type": "专辑",
+        "size": 26,
+        "picId_str": "109951172090048622",
+        "info": {
+            "commentThread": {
+                "id": "R_AL_3_286986836",
+                "resourceInfo": {
+                    "id": 286986836,
+                    "userId": -1,
+                    "name": "AD:HOUSE 13",
+                    "imgUrl": "http://p4.music.126.net/fXrgDzVdt7shPs2kASP3vQ==/109951172090048622.jpg",
+                    "creator": null,
+                    "encodedId": null,
+                    "subTitle": null,
+                    "webUrl": null
+                },
+                "resourceType": 3,
+                "commentCount": 167,
+                "likedCount": 0,
+                "shareCount": 176,
+                "hotCount": 3,
+                "latestLikedUsers": null,
+                "resourceOwnerId": -1,
+                "resourceTitle": "AD:HOUSE 13",
+                "resourceId": 286986836
+            },
+            "latestLikedUsers": null,
+            "liked": false,
+            "comments": null,
+            "resourceType": 3,
+            "resourceId": 286986836,
+            "commentCount": 167,
+            "likedCount": 0,
+            "shareCount": 176,
+            "threadId": "R_AL_3_286986836"
+        }
+    }
+}

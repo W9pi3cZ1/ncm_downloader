@@ -1,0 +1,31 @@
+{
+  "_comment": "https://ncmapi.xslimenb.eu.org/lyric?id=3422178442",
+  "sgc": false,
+  "sfy": false,
+  "qfy": false,
+  "transUser": {
+    "id": 135281213,
+    "status": 99,
+    "demand": 1,
+    "userid": 1770347748,
+    "nickname": "能到达那片蓝的尽头就好了",
+    "uptime": 1788319992766
+  },
+  "lrc": {
+    "version": 4,
+    "lyric": "[00:00.00] 作词 : KAIRUI\n[00:01.00] 作曲 : KAIRUI\n[00:14:18]渡る、語る沈黙の渦\n[00:17:02]読めない雲行きを測って\n[00:19:82]騙る、が足る推察と地図\n[00:22:65]余白にだけ写ったアイロニー\n[00:25:50]巡る、巡る詮索とif\n[00:28:34]問い無い答え妙に曲がって\n[00:31:20]分かる？分かる？目線で言う\n[00:33:94]敢え無く気にしなくもなって\n[00:37:16]皆ひとりじゃないから\n[00:38:97]文字になったもんばかりが蔓延るし\n[00:42:78]どんな含みもない！\n[00:43:97]ただ、凝らして見てて欲しい\n[00:47:31]ねー、\n[00:48:08]ひょっとして！\n[00:50:00]世の果て頃やっとユーと言うのか\n[00:53:74]はっ、とした頃には\n[00:56:53]透ける四肢だってのに\n[00:59:33]ちゃんと見て！\n[01:01:31]ちょっとした恐怖くらいの嵐が\n[01:04:67]ひゅうひゅうと吹き変えていく\n[01:07:84]空気系の私のこと\n[01:29:02]空気系のあなたのこと\n[02:05:65]私のこと、\n[02:18:37]ちゃんと見て\n"
+  },
+  "klyric": {
+    "version": 0,
+    "lyric": ""
+  },
+  "tlyric": {
+    "version": 5,
+    "lyric": "[00:14:18]辗转，言语这沉默的漩涡\n[00:17:02]揣测着读不透的天色风向\n[00:19:82]粉饰，填满推测与地图\n[00:22:65]只映在留白处的反讽\n[00:25:50]盘旋，轮回的追究与假设\n[00:28:34]没有疑问的回答诡异地扭折\n[00:31:20]懂吗？懂吗？用眼神诉说\n[00:33:94]终究也渐渐变得不再在意\n[00:37:16]因为大家并非孤身一人\n[00:38:97]可净是化作文字的事物在蔓延\n[00:42:78]根本毫无深意！\n[00:43:97]只愿你能凝神注视着我\n[00:47:31]呐——、\n[00:48:08]难不成！\n[00:50:00]待到世界尽头 才终于说出“你”的名字吗\n[00:53:74]等回过神来\n[00:56:53]四肢早已透明\n[00:59:33]好好看着！\n[01:01:31]犹如些许恐惧的风暴\n[01:04:67]呼啸着席卷改变\n[01:07:84]那个空气系的自己\n[01:29:02]那个空气系的你\n[02:05:65]关于我的一切\n[02:18:37]请好好注视"
+  },
+  "romalrc": {
+    "version": 2,
+    "lyric": "[00:14.180]wa ta ru、ka ta ru chi n mo ku no u zu\n[00:17.020]yo me na i ku mo yu ki wo ha ka tte\n[00:19.820]ka ta ru、ga ta ru su i sa tsu to chi zu\n[00:22.650]yo ha ku ni da ke u tsu tta a i ro nii\n[00:25.500]me gu ru、me gu ru se n sa ku to if\n[00:28.340]to i na i ko ta e myo u ni ma ga tte\n[00:31.200]wa ka ru?wa ka ru?me se n de yu u\n[00:33.940]a e na ku ki ni shi na ku mo na tte\n[00:37.160]mi na hi to ri ja na i ka ra\n[00:38.970]mo ji ni na tta mo n ba ka ri ga ha bi ko ru shi\n[00:42.780]do n na fu ku mi mo na i!\n[00:43.970]ta da、ko ra shi te mi te te ho shi i\n[00:47.310]nee、\n[00:48.080]hyo tto shi te!\n[00:50.000]yo no ha te ko ro ya tto yuu to i u no ka\n[00:53.740]ha tsu、to shi ta ko ro ni wa\n[00:56.530]su ke ru shi shi da tte no ni\n[00:59.330]cha n to mi te!\n[01:01.310]cho tto shi ta kyo u fu ku ra i no a ra shi ga\n[01:04.670]hyu u hyu u to fu ki ka e te i ku\n[01:07.840]ku u ki ke i no wa ta shi no ko to\n[01:29.020]ku u ki ke i no a na ta no ko to\n[02:05.650]wa ta shi no ko to、\n[02:18.370]cha n to mi te"
+  },
+  "code": 200
+}
