@@ -224,6 +224,90 @@ impl NCMClient {
         }
     }
 
+    pub fn pathname(url: &str) -> String {
+        // Remove scheme://
+        let (had_scheme, s) = match url.split_once("://") {
+            Some((_, rest)) => (true, rest),
+            None => (false, url),
+        };
+
+        // Remove host
+        let s: &str = if had_scheme {
+            s.find('/').map(|i| &s[i..]).unwrap_or("/")
+        } else if let Some(i) = s.find('/') {
+            let head = &s[..i];
+            if !head.is_empty() && head.contains('.') {
+                &s[i..]
+            } else {
+                s
+            }
+        } else {
+            s
+        };
+
+        // Use fragment if s has '#'
+        let s = s.split_once('#').map(|(_, f)| f).unwrap_or(s);
+
+        // Remove '/' and 'm/' prefix
+        let s = s.trim_start_matches('/');
+        let s = s.strip_prefix("m/").unwrap_or(s);
+
+        // Get path / query
+        let (path, query) = match s.split_once('?') {
+            Some((p, q)) => (p, Some(q)),
+            None => (s, None),
+        };
+
+        // Get id property from query
+        let id = query.and_then(|q| {
+            q.split('&')
+                .filter_map(|kv| kv.split_once('='))
+                .find(|(k, _)| *k == "id")
+                .map(|(_, v)| v)
+        });
+
+        // Splice together
+        match id {
+            Some(v) => format!("/{}/{}", path.trim_end_matches('/'), v),
+            None => format!("/{}", path.trim_end_matches("/")),
+        }
+    }
+
+    pub fn extract_album_id(url: &str) -> Option<u64> {
+        let pathname = Self::pathname(url);
+        info!("Pathname: {}", pathname);
+        let id_str = match pathname.split_once("/album/") {
+            Some((_, rest)) => rest,
+            None => return None,
+        };
+        match id_str.parse::<u64>() {
+            Ok(id) => Some(id),
+            Err(_) => None,
+        }
+    }
+
+    pub async fn get_album_id(&self, url: &str) -> Option<u64> {
+        // if short link passed
+        let binding;
+        let url = if !url.contains("music.163.com") {
+            match self.resolve_short_url(url).await {
+                Some(real_url) => {
+                    binding = real_url.to_string();
+                    println!("EXPANDED -> {}", binding);
+                    &binding
+                }
+                None => url,
+            }
+        } else {
+            url
+        };
+        Self::extract_album_id(url)
+    }
+
+    pub async fn resolve_short_url(&self, i: &str) -> Option<Url> {
+        Some(self.client.clone().get(i).send().await.ok()?.url().clone())
+    }
+
     async fn get_json<T: DeserializeOwned>(
         &self,
         path: &str,
@@ -404,5 +488,206 @@ impl NCMClient {
         }
 
         Ok(slots.into_iter().map(Option::unwrap).collect())
+    }
+
+    // ==== 下载 ====
+
+    /// 单 URL 流式下载，只发一次请求。
+    ///
+    /// 4xx 返回 `Fatal`；5xx / 网络 / IO 返回 `Retry`。
+    async fn download_once<W, F>(
+        &self,
+        url: &str,
+        writer: &mut W,
+        on_chunk: &F,
+    ) -> Result<Timed<DownloadResult>, DlErr>
+    where
+        W: tokio::io::AsyncWrite + Unpin + ?Sized,
+        F: Fn(u64, Option<u64>) + Send + Sync,
+    {
+        use futures::StreamExt;
+        use tokio::io::AsyncWriteExt;
+
+        debug!("Download: {}", url);
+        let sent_at = SystemTime::now();
+        let start = Instant::now();
+
+        let resp = self.client.get(url).send().await?;
+        let status = resp.status();
+        if status.is_server_error() {
+            return Err(DlErr::Retry(format!("server error: {}", status).into()));
+        }
+        if !status.is_success() {
+            return Err(DlErr::Fatal(format!("HTTP {} for {}", status, url)));
+        }
+
+        // 可能为 None（chunked transfer 没有 Content-Length）
+        let content_length = resp.content_length();
+
+        // 通知一开始的状态（position=0，length 可能已知可能未知）
+        on_chunk(0, content_length);
+
+        let mut stream = resp.bytes_stream();
+        let mut bytes: u64 = 0;
+        while let Some(chunk) = stream.next().await {
+            let chunk = chunk?;
+            writer.write_all(&chunk).await?;
+            bytes += chunk.len() as u64;
+            on_chunk(bytes, content_length); // 每个 chunk
+        }
+        writer.flush().await?;
+
+        let received_at = SystemTime::now();
+        let elapsed = start.elapsed();
+        Ok(Timed {
+            value: DownloadResult {
+                bytes,
+                content_length,
+            },
+            timing: Timing {
+                sent_at,
+                received_at,
+                elapsed,
+            },
+        })
+    }
+
+    pub async fn download_to_path_with<F, R>(
+        &self,
+        url: &str,
+        path: impl AsRef<Path>,
+        on_chunk: F,
+        on_retry: R,
+    ) -> Result<Timed<DownloadResult>, Box<dyn std::error::Error>>
+    where
+        F: Fn(u64, Option<u64>) + Send + Sync,
+        R: Fn(usize, usize, &str) + Send + Sync,
+    {
+        let path = path.as_ref();
+        let attempts = self.attempts.max(1);
+        let mut last_err: Box<dyn std::error::Error> = "download failed".into();
+
+        for attempt in 1..=attempts {
+            // 每次重试都 truncate，避免半截文件叠加
+            let mut file = match tokio::fs::File::create(path).await {
+                Ok(f) => f,
+                Err(e) => return Err(Box::new(e)),
+            };
+
+            match self.download_once(url, &mut file, &on_chunk).await {
+                Ok(v) => return Ok(v),
+                Err(DlErr::Fatal(s)) => return Err(s.into()),
+                Err(DlErr::Retry(e)) => {
+                    error!(
+                        "Download attempt {}/{} failed: {} ({})",
+                        attempt, attempts, e, url
+                    );
+                    last_err = e;
+                    if attempt < attempts {
+                        on_retry(attempt, attempts, &last_err.to_string());
+                        Self::backoff(attempt, attempts).await;
+                    }
+                }
+            }
+        }
+
+        Err(last_err)
+    }
+
+    /// 下载到文件，自动重试。
+    ///
+    /// - 5xx / 网络 / IO 错误会按 [`Self::backoff`] 退避重试
+    /// - 每次重试前 **truncate 目标文件**，确保不会留下半截内容
+    /// - 4xx（如签名过期）直接返回，不重试
+    pub async fn download_to_path(
+        &self,
+        url: &str,
+        path: impl AsRef<Path>,
+    ) -> Result<Timed<DownloadResult>, Box<dyn std::error::Error>> {
+        self.download_to_path_with(url, path, |_, _| {}, |_, _, _| {})
+            .await
+    }
+
+    /// 批量下载 + 每 job 独立的 chunk/retry 回调。
+    ///
+    /// - `make_callbacks(i, url, path)`: 为第 i 个任务生成专属的
+    ///   `(on_chunk, on_retry)`。典型用法是在这里取出第 i 根 `ProgressBar`
+    ///   并 clone 进闭包。
+    /// - `on_done(n, total)`: 每个 job 完成（含失败）后调用一次。
+    /// - 任意 job 彻底失败会短路，返回该错误。
+    pub async fn download_to_paths_with<CF, RF, MF, D>(
+        &self,
+        jobs: Vec<(String, PathBuf)>,
+        make_callbacks: MF,
+        on_done: D,
+    ) -> Result<Vec<Timed<DownloadResult>>, Box<dyn std::error::Error>>
+    where
+        CF: Fn(u64, Option<u64>) + Send + Sync + 'static,
+        RF: Fn(usize, usize, &str) + Send + Sync + 'static,
+        MF: Fn(usize, &str, &Path) -> (CF, RF) + Send + Sync + 'static,
+        D: Fn(usize, usize) + Send + Sync + 'static,
+    {
+        use futures::stream::{self, StreamExt};
+
+        let total = jobs.len();
+        let done = Arc::new(AtomicUsize::new(0));
+        let on_done = Arc::new(on_done);
+        let make_callbacks = Arc::new(make_callbacks);
+        let concurrent = self.concurrent.max(1);
+
+        let mut slots: Vec<Option<Timed<DownloadResult>>> = (0..total).map(|_| None).collect();
+
+        let mut s = stream::iter(jobs.into_iter().enumerate())
+            .map(|(i, (url, path))| {
+                let done = done.clone();
+                let on_done = on_done.clone();
+                let make_callbacks = make_callbacks.clone();
+                async move {
+                    // 每 job 生成专属回调
+                    let (on_chunk, on_retry) = make_callbacks(i, &url, &path);
+                    let r = self
+                        .download_to_path_with(&url, &path, on_chunk, on_retry)
+                        .await;
+
+                    let n = done.fetch_add(1, Ordering::Relaxed) + 1;
+                    on_done(n, total);
+                    (i, r)
+                }
+            })
+            .buffer_unordered(concurrent);
+
+        while let Some((i, r)) = s.next().await {
+            slots[i] = Some(r?);
+        }
+
+        Ok(slots.into_iter().map(Option::unwrap).collect())
+    }
+
+    /// 批量下载：并发把每个 `(url, 目标路径)` 下载到文件。
+    ///
+    /// - 并发数由 `self.concurrent` 控制
+    /// - `on_done(已完成数, 总数)` 在**每个 job 完成时**被调用（含失败的）
+    /// - 任意一个 job 彻底失败（重试用尽 / 4xx）会短路整个批量，返回该错误
+    ///
+    /// 需要「部分失败不影响其余」请自行循环调用 [`Self::download_to_path`]。
+    pub async fn download_to_paths<D>(
+        &self,
+        jobs: Vec<(String, PathBuf)>,
+        on_done: D,
+    ) -> Result<Vec<Timed<DownloadResult>>, Box<dyn std::error::Error>>
+    where
+        D: Fn(usize, usize) + Send + Sync + 'static,
+    {
+        self.download_to_paths_with(
+            jobs,
+            |_, _, _| {
+                (
+                    |_: u64, _: Option<u64>| {},
+                    |_: usize, _: usize, _: &str| {},
+                )
+            },
+            on_done,
+        )
+        .await
     }
 }

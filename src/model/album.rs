@@ -5,7 +5,7 @@ use url::Url;
 use crate::{
     model::{AlbumId, ArtistRef, SongId, song::SongDisc},
     ncm::dto,
-    util::{get_disc_subtitle, non_empty},
+    util::{PrettyUrl, get_disc_subtitle, non_empty},
 };
 
 #[derive(Debug)]
@@ -42,9 +42,11 @@ impl DiscMap {
     pub fn push_track(&mut self, cd_raw: String, id: u64) {
         let disc = match self.discs.iter().position(|x| x.raw == cd_raw.clone()) {
             Some(d) => &mut self.discs[d],
-            None => self
-                .discs
-                .push_mut(Disc::new(get_disc_subtitle(cd_raw.clone()), cd_raw.clone())),
+            None => {
+                self.discs
+                    .push(Disc::new(get_disc_subtitle(cd_raw.clone()), cd_raw.clone()));
+                self.discs.last_mut().unwrap()
+            }
         };
         disc.add(id);
     }
@@ -54,12 +56,12 @@ impl DiscMap {
             for (m, track) in disc.tracks.iter().enumerate() {
                 if track.0 == id {
                     return Some(SongDisc {
-                        curr: (n+1) as u32,
-                        curr_track: (m+1) as u32,
+                        curr: (n + 1) as u32,
+                        curr_track: (m + 1) as u32,
                         total: self.discs.len() as u32,
                         subtitle: disc.subtitle.clone(),
                         track_total: disc.tracks.len() as u32,
-                    })
+                    });
                 }
             }
         }
@@ -71,11 +73,11 @@ impl DiscMap {
 pub struct Album {
     pub id: AlbumId,
     pub name: String,
-    pub pic_url: Url,
+    pub pic_url: PrettyUrl,
     pub release_date: SystemTime,
     pub company: Option<String>,
     pub artists: Vec<ArtistRef>,
-    pub comment: Option<String>,
+    pub description: Option<String>,
     pub songs: Vec<SongId>,
     pub disc_map: DiscMap,
 }
@@ -94,16 +96,16 @@ impl Album {
         Self {
             id: AlbumId(value.album.id),
             name: value.album.name,
-            pic_url: Url::parse(&value.album.pic_url).unwrap(),
+            pic_url: Url::parse(&value.album.pic_url).unwrap().into(),
             release_date: UNIX_EPOCH + Duration::from_millis(value.album.publish_time),
-            company: non_empty(value.album.company),
+            company: value.album.company.and_then(non_empty),
             artists: value
                 .album
                 .artists
                 .iter()
                 .map(|x| ArtistRef::new(x.id, x.name.clone()))
                 .collect(),
-            comment: non_empty(value.album.description),
+            description: value.album.description.and_then(non_empty),
             songs: songs.iter().map(|x| SongId(x.id)).collect(),
             disc_map: generate_disc_map(songs),
         }

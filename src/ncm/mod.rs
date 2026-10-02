@@ -24,7 +24,7 @@ pub enum AudioQuality {
 }
 
 impl AudioQuality {
-    pub fn label(self) -> &'static str{
+    pub fn label(self) -> &'static str {
         match self {
             Self::None => "无权限",
             Self::Standard => "标准",
@@ -39,7 +39,7 @@ impl AudioQuality {
         }
     }
 
-    pub fn field(self) -> &'static str{
+    pub fn field(self) -> &'static str {
         match self {
             Self::None => "none",
             Self::Standard => "standard",

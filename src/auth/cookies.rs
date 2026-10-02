@@ -4,7 +4,10 @@ use std::fs;
 use tracing::warn;
 
 /// 把 Netscape cookies.txt 的内容解析进 CookieStore
-pub fn import_netscape(base_domain: &str, path: &str) -> Result<CookieStore, Box<dyn std::error::Error>> {
+pub fn import_netscape(
+    base_domain: &str,
+    path: &str,
+) -> Result<CookieStore, Box<dyn std::error::Error>> {
     let mut store = CookieStore::new();
     let content = fs::read_to_string(path)?;
     for (n, raw_line) in content.lines().enumerate() {
@@ -35,10 +38,11 @@ pub fn import_netscape(base_domain: &str, path: &str) -> Result<CookieStore, Box
         // 不要担心什么性能问题，服务器会设的cookie不会太多的...
         let mut s = format!("{name}={value}");
         if !domain.is_empty() {
-            if domain.ends_with("163.com") { // rewrite to api domain
+            if domain.ends_with("163.com") {
+                // rewrite to api domain
                 s.push_str("; Domain=");
                 s.push_str(base_domain);
-            }else {
+            } else {
                 s.push_str("; Domain=");
                 s.push_str(domain);
             }

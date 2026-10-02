@@ -21,9 +21,9 @@ pub mod album {
         pub pic_url: String, // FILE cover.EXT
         #[serde(rename = "publishTime")]
         pub publish_time: u64, // META release_date (millseconds timestamp UTC)
-        pub company: String, // META copyright ("" means Nothing)
+        pub company: Option<String>, // META copyright ("" means Nothing)
         pub artists: Vec<AlbumArtist>, // META album_artist
-        pub description: String, // META comment
+        pub description: Option<String>, // META description
     }
 
     #[derive(Debug, Deserialize, Clone)]
@@ -147,7 +147,6 @@ pub mod lyric {
         pub code: u16,
     }
 
-
     #[derive(Debug, Deserialize, Clone)]
     pub struct LrcPayload {
         pub version: u32,
@@ -165,5 +164,4 @@ pub mod lyric {
         pub version: u32,
         pub lyric: String,
     }
-
 }

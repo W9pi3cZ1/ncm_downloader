@@ -7,6 +7,9 @@ use crate::ncm::{AudioQuality, DEFAULT_NCMEAPI_URL};
 #[derive(Parser, Debug)]
 #[command(version, about, long_about = None)]
 pub struct Args {
+    // URL
+    pub url: String,
+
     #[command(flatten)]
     pub verbosity: Verbosity<InfoLevel>,
 

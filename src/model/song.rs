@@ -1,15 +1,20 @@
-use std::{marker::PhantomData, time::{Duration, SystemTime}};
+use std::{
+    marker::PhantomData,
+    time::{Duration, SystemTime},
+};
 
 use url::Url;
 
 use crate::{
-    model::{AlbumId, ArtistRef, SongId}, ncm::{AudioQuality, client::Timed, dto}, util::non_empty,
+    model::{AlbumId, ArtistRef, SongId, lyric::Lyrics},
+    ncm::{AudioQuality, client::Timed, dto},
+    util::{PrettyUrl, non_empty},
 };
 
 #[derive(Debug, Clone)]
 pub struct SongUrl {
     pub level: AudioQuality,
-    pub url: Url,
+    pub url: PrettyUrl,
     pub fetched_at: SystemTime,
     pub expires: Duration,
 }
@@ -18,7 +23,7 @@ impl From<Timed<dto::song_url::Payload>> for SongUrl {
     fn from(value: Timed<dto::song_url::Payload>) -> Self {
         Self {
             level: value.value.level,
-            url: Url::parse(&value.value.url).unwrap(),
+            url: Url::parse(&value.value.url).unwrap().into(),
             fetched_at: value.timing.sent_at.clone(),
             expires: Duration::from_secs(value.value.expi),
         }
@@ -40,29 +45,6 @@ impl SongUrl {
 // }
 
 #[derive(Debug)]
-pub struct Lyrics {
-    pub orginal: Option<String>,
-    pub trans: Option<String>,
-    pub romaji: Option<String>,
-}
-
-impl From<Timed<dto::lyric::API>> for Lyrics {
-    fn from(value: Timed<dto::lyric::API>) -> Self {
-        Self {
-            orginal: value.value.lrc.and_then(|x| non_empty(x.lyric)),
-            trans: value.value.tlyric.and_then(|x| non_empty(x.lyric)),
-            romaji: value.value.romalrc.and_then(|x| non_empty(x.lyric)),
-        }
-    }
-}
-
-impl Lyrics {
-    pub fn empty() -> Self {
-        Self { orginal: None, trans: None, romaji: None }
-    }
-}
-
-#[derive(Debug)]
 pub struct SongDisc {
     pub curr: u32,
     pub curr_track: u32,
@@ -77,7 +59,7 @@ pub struct Song {
     pub name: String,
     pub artists: Vec<ArtistRef>,
     pub album: AlbumId,
-    pub pic_url: Url, // 有时存在与专封不一致的单曲封面
+    pub pic_url: PrettyUrl, // 有时存在与专封不一致的单曲封面
     pub lyrics: Lyrics,
     pub discs: SongDisc,
     pub url: Option<SongUrl>,

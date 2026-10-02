@@ -1,28 +1,43 @@
-mod downloader;
+pub mod downloader;
 pub use downloader::Downloader;
 
 use std::collections::HashMap;
 
-use url::Url;
+use crate::model::{album::Album, song::Song};
 
-use crate::{
-    model::{album::Album, song::{Lyrics, Song}}, ncm::client::NCMClient,
-};
+pub mod album;
+pub mod lyric;
+pub mod song;
 
-mod album;
-mod song;
-
-#[derive(Debug, Copy, Clone, PartialEq, Eq, Hash)]
-pub struct AlbumId(u64);
-#[derive(Debug, Copy, Clone, PartialEq, Eq, Hash)]
-pub struct ArtistId(u64);
-#[derive(Debug, Copy, Clone, PartialEq, Eq, Hash)]
-pub struct SongId(u64);
+macro_rules! id_type {
+    ($name:ident) => {
+        #[derive(Copy, Clone, PartialEq, Eq, Hash, PartialOrd, Ord)]
+        pub struct $name(pub u64);
+        impl From<u64> for $name {
+            fn from(v: u64) -> Self {
+                Self(v)
+            }
+        }
+        impl From<$name> for u64 {
+            fn from(v: $name) -> u64 {
+                v.0
+            }
+        }
+        impl std::fmt::Debug for $name {
+            fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
+                write!(f, concat!(stringify!($name), "({})"), self.0)
+            }
+        }
+    };
+}
+id_type!(AlbumId);
+id_type!(ArtistId);
+id_type!(SongId);
 
 #[derive(Debug, Clone)]
 pub struct ArtistRef {
-    id: Option<ArtistId>, // 可能出现未绑上的情况
-    name: String,
+    pub id: Option<ArtistId>, // 可能出现未绑上的情况
+    pub(crate) name: String,
 }
 
 impl ArtistRef {
@@ -51,11 +66,11 @@ impl Library {
         }
     }
 
-    pub fn push_song(&mut self, song: Song){
+    pub fn push_song(&mut self, song: Song) {
         self.song_pools.insert(song.id, song);
     }
 
-    pub fn push_album(&mut self, album: Album){
+    pub fn push_album(&mut self, album: Album) {
         self.album_pools.insert(album.id, album);
     }
 
