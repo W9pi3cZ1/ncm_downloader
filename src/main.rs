@@ -42,20 +42,10 @@ async fn main() {
 
     let exporter = export::Exporter::new(downloader);
 
-    let album_folder = "{{ album.name|s }} ({{ album.release_year }})";
-    let cover_tmpl = format!("{}{}", album_folder, "/cover.{{ ext }}");
-    let song_tmpl = format!(
-        "{}{}",
-        album_folder,
-        "/\
-    {%- if song.disc_total > 1 %}\
-        {{ song.disc|pad_to(song.disc_total) }}.\
-    {% endif %}\
-    {{ song.track|pad_to(song.track_total) }} \
-    {{ song.name|s }}.{{ ext }}\
-    "
-    );
-    let base = PathBuf::from("out");
+    let album_folder = args.album_tmpl;
+    let cover_tmpl = format!("{}/{}", album_folder, args.cover_tmpl);
+    let song_tmpl = format!("{}/{}", album_folder, args.song_tmpl);
+    let base = PathBuf::from(args.base_path);
 
     let results = exporter
         .export_album(album_id, Some(&cover_tmpl), &song_tmpl, &base)

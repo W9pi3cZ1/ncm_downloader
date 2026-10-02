@@ -29,7 +29,32 @@ pub struct Args {
     #[arg(long, short = 'a', default_value_t = 3)]
     pub attempts: usize,
 
+    /// Base Output Path
+    #[arg(long, short = 'o', default_value = "out")]
+    pub base_path: String,
+
     /// NCMEAPI base URL
     #[arg(long, default_value = DEFAULT_NCMEAPI_URL)]
     pub base_url: String,
+
+    /// Album Folder Template
+    #[arg(long, default_value = "{{ album.name|s }} ({{ album.release_year }})")]
+    pub album_tmpl: String,
+
+    /// Cover Template
+    #[arg(long, default_value = "cover.{{ ext }}")]
+    pub cover_tmpl: String,
+
+    /// Song Template
+    #[arg(
+        long,
+        default_value = "\
+        {%- if song.disc_total > 1 %}\
+            {{ song.disc|pad_to(song.disc_total) }}.\
+        {% endif %}\
+        {{ song.track|pad_to(song.track_total) }} \
+        {{ song.name|s }}.{{ ext }}\
+    "
+    )]
+    pub song_tmpl: String,
 }
