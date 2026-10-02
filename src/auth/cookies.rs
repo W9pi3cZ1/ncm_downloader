@@ -1,7 +1,7 @@
-use cookie::time;
+use cookie::{Cookie, time};
 use reqwest_cookie_store::CookieStore;
 use std::fs;
-use tracing::warn;
+use tracing::{error, warn};
 
 /// 把 Netscape cookies.txt 的内容解析进 CookieStore
 pub fn import_netscape(
@@ -31,48 +31,42 @@ pub fn import_netscape(
             warn!("Invalid line in {}:{}", path, n);
             continue;
         }
-        let (domain, path, secure_s, expires_s, name, value) =
+        let (domain_o, path, secure_s, expires_s, name, value) =
             (parts[0], parts[2], parts[3], parts[4], parts[5], parts[6]);
 
-        // 拼成 Set-Cookie 字符串
-        // 不要担心什么性能问题，服务器会设的cookie不会太多的...
-        let mut s = format!("{name}={value}");
+        let mut c = Cookie::build((name, value));
+        let domain = if domain_o.ends_with("163.com") {
+            // rewrite to api domain
+            base_domain
+        } else {
+            domain_o
+        };
         if !domain.is_empty() {
-            if domain.ends_with("163.com") {
-                // rewrite to api domain
-                s.push_str("; Domain=");
-                s.push_str(base_domain);
-            } else {
-                s.push_str("; Domain=");
-                s.push_str(domain);
-            }
+            c = c.domain(domain)
         }
         if !path.is_empty() {
-            s.push_str("; Path=");
-            s.push_str(path);
+            c = c.path(path);
         }
-        if secure_s.eq_ignore_ascii_case("TRUE") {
-            s.push_str("; Secure");
-        }
-        if is_httponly {
-            s.push_str("; HttpOnly");
-        }
+        c = c
+            .secure(secure_s.eq_ignore_ascii_case("TRUE"))
+            .http_only(is_httponly);
+
         if expires_s != "0" {
             if let Ok(ts) = expires_s.parse::<i64>() {
                 if let Ok(dt) = time::OffsetDateTime::from_unix_timestamp(ts) {
-                    if let Ok(fmt) = dt.format(&time::format_description::well_known::Rfc2822) {
-                        s.push_str("; Expires=");
-                        s.push_str(&fmt);
-                    }
+                    c = c.expires(dt);
                 }
             }
         }
 
         // URL 只需要用来确定默认 domain/path，用根域名即可
         let url_str = format!("https://{}", domain.trim_start_matches('.'));
+        let raw = cookie_store::RawCookie::from(c.build());
         if let Ok(url) = url::Url::parse(&url_str) {
             // 解析失败就跳过这一条，不影响其他 cookie
-            let _ = store.insert_raw(&cookie_store::RawCookie::from(s), &url);
+            let _ = store.insert_raw(&raw, &url).inspect_err(|x| {
+                error!("Parse Error: {:?}", x);
+            });
         }
     }
     Ok(store)

@@ -53,7 +53,7 @@ async fn main() {
         .unwrap();
 
     println!();
-    for (sid, path) in results.songs {
+    for (_sid, path) in results.songs {
         println!("{}", path.display());
     }
 }
