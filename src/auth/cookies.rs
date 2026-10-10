@@ -65,7 +65,7 @@ pub fn import_netscape(
         if let Ok(url) = url::Url::parse(&url_str) {
             // 解析失败就跳过这一条，不影响其他 cookie
             let _ = store.insert_raw(&raw, &url).inspect_err(|x| {
-                error!("Parse Error: {:?}", x);
+                error!("Parse Error for `{}`: {:?}", raw.name(), x);
             });
         }
     }

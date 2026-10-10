@@ -1,16 +1,14 @@
-use std::{
-    marker::PhantomData,
-    time::{Duration, SystemTime},
-};
+use std::time::{Duration, SystemTime};
 
 use url::Url;
 
 use crate::{
     model::{AlbumId, ArtistRef, SongId, lyric::Lyrics},
     ncm::{AudioQuality, client::Timed, dto},
-    util::{PrettyUrl, non_empty},
+    util::PrettyUrl,
 };
 
+#[allow(unused)]
 #[derive(Debug, Clone)]
 pub struct SongUrl {
     pub level: AudioQuality,
@@ -30,8 +28,10 @@ impl From<Timed<dto::song_url::Payload>> for SongUrl {
     }
 }
 
+#[allow(unused)]
 impl SongUrl {
-    fn is_expired(&self) -> bool {
+    /// TODO: 实现过期处理和音乐库导出
+    pub fn is_expired(&self) -> bool {
         let now = SystemTime::now();
         // 留出30s时间
         now >= (self.fetched_at + self.expires - Duration::from_secs(30))
@@ -53,6 +53,7 @@ pub struct SongDisc {
     pub track_total: u32,
 }
 
+#[allow(unused)]
 #[derive(Debug)]
 pub struct Song {
     pub id: SongId,

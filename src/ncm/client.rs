@@ -62,6 +62,7 @@ pub fn build_tls_config() -> ClientConfig {
 ///
 /// - `sent_at` / `received_at` 是墙钟（`SystemTime`），用于计算「链接何时过期」这类绝对时刻
 /// - `elapsed` 由单调时钟（`Instant`）测得，不受用户调整系统时间影响
+#[allow(unused)]
 #[derive(Debug, Clone, Copy)]
 pub struct Timing {
     /// 请求「发出」时的墙钟时刻
@@ -79,6 +80,7 @@ pub struct Timed<T> {
     pub timing: Timing,
 }
 
+#[allow(unused)]
 impl<T> Timed<T> {
     pub fn new(value: T, timing: Timing) -> Self {
         Self { value, timing }
@@ -125,6 +127,7 @@ impl<T> Timed<T> {
 }
 
 /// 单个下载任务的总结
+#[allow(unused)]
 #[derive(Debug, Clone, Copy)]
 pub struct DownloadResult {
     /// 实际写入的字节数
@@ -428,28 +431,12 @@ impl NCMClient {
         self.get_json(&format!("/lyric?id={}", id)).await
     }
 
-    pub async fn lyrics(
-        &self,
-        ids: &[u64],
-    ) -> Result<Vec<Timed<dto::lyric::API>>, Box<dyn std::error::Error>> {
-        use futures::stream::{self, StreamExt};
-
-        let concurrent = self.concurrent.max(1);
-
-        // 预先准备定长槽位
-        let mut slots: Vec<Option<Timed<dto::lyric::API>>> = (0..ids.len()).map(|_| None).collect();
-
-        // (i, id) 一起进 future，返回时带回 i
-        let mut s = stream::iter(ids.iter().copied().enumerate())
-            .map(|(i, id)| async move { (i, self.lyric(id).await) })
-            .buffer_unordered(concurrent);
-
-        while let Some((i, r)) = s.next().await {
-            slots[i] = Some(r?); // 出错直接短路
-        }
-
-        Ok(slots.into_iter().map(Option::unwrap).collect())
-    }
+    // pub async fn lyrics(
+    //     &self,
+    //     ids: &[u64],
+    // ) -> Result<Vec<Timed<dto::lyric::API>>, Box<dyn std::error::Error>> {
+    //     self.lyrics_with_progress(ids, |_,_|{}).await
+    // }
 
     pub async fn lyrics_with_progress<F>(
         &self,
@@ -599,6 +586,7 @@ impl NCMClient {
     /// - 5xx / 网络 / IO 错误会按 [`Self::backoff`] 退避重试
     /// - 每次重试前 **truncate 目标文件**，确保不会留下半截内容
     /// - 4xx（如签名过期）直接返回，不重试
+    #[allow(unused)]
     pub async fn download_to_path(
         &self,
         url: &str,
@@ -670,6 +658,7 @@ impl NCMClient {
     /// - 任意一个 job 彻底失败（重试用尽 / 4xx）会短路整个批量，返回该错误
     ///
     /// 需要「部分失败不影响其余」请自行循环调用 [`Self::download_to_path`]。
+    #[allow(unused)]
     pub async fn download_to_paths<D>(
         &self,
         jobs: Vec<(String, PathBuf)>,

@@ -34,6 +34,7 @@ id_type!(AlbumId);
 id_type!(ArtistId);
 id_type!(SongId);
 
+#[allow(unused)]
 #[derive(Debug, Clone)]
 pub struct ArtistRef {
     pub id: Option<ArtistId>, // 可能出现未绑上的情况
@@ -58,6 +59,7 @@ pub struct Library {
     pub song_pools: HashMap<SongId, Song>,
 }
 
+#[allow(unused)]
 impl Library {
     pub fn new() -> Self {
         Self {

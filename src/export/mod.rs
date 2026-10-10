@@ -3,15 +3,11 @@ mod ttml;
 use std::{
     path::{Component, Path, PathBuf},
     sync::{Arc, Mutex},
-    time::UNIX_EPOCH,
 };
 
-use cookie::time::{
-    OffsetDateTime, UtcOffset,
-    format_description::well_known::iso8601::FormattedComponents::DateTimeOffset,
-};
+use cookie::time::{OffsetDateTime, UtcOffset};
 use indicatif::{MultiProgress, ProgressBar, ProgressStyle};
-use minijinja::{Environment, Error, ErrorKind};
+use minijinja::{Environment, Error};
 use serde::Serialize;
 use tokio::task::JoinSet;
 use url::Url;
@@ -23,10 +19,11 @@ use crate::{
         lyric::Lyrics,
         song::{Song, SongDisc},
     },
-    tag,
+    tag::{self, image::CoverEmbedCache},
 };
 
 /// 一次导出的产物。
+#[allow(unused)]
 #[derive(Debug, Default)]
 pub struct AlbumExport {
     /// 专辑封面落盘路径（未提供 `cover_tmpl` 或封面资源缺失时为 None）
@@ -146,16 +143,6 @@ impl Exporter {
     ) -> Result<AlbumExport, Box<dyn std::error::Error>> {
         let resources = Arc::new(Mutex::new(self.download_album(album_id).await?));
 
-        // 抠出 song id，后续循环里可以重复借用 lib
-        let sids: Vec<u64> = {
-            let album = self
-                .downloader
-                .lib
-                .get_album(album_id)
-                .ok_or_else(|| format!("album {album_id} not found"))?;
-            album.songs.iter().map(|s| s.0).collect()
-        };
-
         let album = self
             .downloader
             .lib
@@ -204,6 +191,7 @@ impl Exporter {
         );
         // —— 逐首歌：准备 Job，然后丢进 blocking 线程池并行执行 ——
         let mut set: JoinSet<JobResult> = JoinSet::new();
+        let cover_cache = CoverEmbedCache::default();
 
         for (idx, sid) in album.songs.iter().map(|s| s.0).enumerate() {
             let Some(song) = self.downloader.lib.get_song(sid) else {
@@ -232,12 +220,9 @@ impl Exporter {
                 base_dir,
             )?;
 
-            // 只读：读封面字节（本地临时文件）
-            let cover_bytes = {
-                let res = resources.lock().unwrap();
-                res.get(&song.pic_url.clone().into_inner())
-                    .and_then(|p| std::fs::read(p).ok())
-            };
+            // 只读：读封面字节（本地临时文件，可能会过一遍压缩）
+            let cover_bytes =
+                cover_cache.get_or_prepare(&resources, &song.pic_url.clone().into_inner());
 
             let job = SongJob {
                 idx,
@@ -297,74 +282,6 @@ impl Exporter {
     ) -> Result<PathBuf, Box<dyn std::error::Error>> {
         let rendered = self.render_str(tmpl, ctx)?;
         Ok(safe_join(base_dir, &rendered)?)
-    }
-
-    /// 专辑封面路径渲染（上下文只有 `album` + `ext`，没有 `song`）
-    pub fn render_cover_path_with<'a>(
-        &self,
-        tmpl: &str,
-        album: &'a Album,
-        ext: &str,
-    ) -> Result<PathBuf, Error> {
-        let ctx = CoverPathCtx {
-            album: AlbumCtx::from(album),
-            ext,
-        };
-        let rendered = self.render_str(tmpl, &ctx)?;
-        Ok(PathBuf::from(rendered))
-    }
-
-    pub fn render_cover_path(
-        &self,
-        tmpl: &str,
-        album_id: u64,
-        ext: &str,
-    ) -> Result<PathBuf, Error> {
-        let album = self.downloader.lib.get_album(album_id).ok_or_else(|| {
-            Error::new(
-                ErrorKind::UndefinedError,
-                format!("album {album_id} not found"),
-            )
-        })?;
-        self.render_cover_path_with(tmpl, album, ext)
-    }
-
-    pub fn render_song_path_with<'a>(
-        &self,
-        tmpl: &str,
-        album: &'a Album,
-        song: &'a Song,
-        ext: &str,
-    ) -> Result<PathBuf, Error> {
-        let ctx = SongPathCtx {
-            album: AlbumCtx::from(album),
-            song: SongCtx::from(song),
-            ext,
-        };
-        let rendered = self.render_str(tmpl, &ctx)?;
-        Ok(PathBuf::from(rendered))
-    }
-
-    pub fn render_song_path(
-        &self,
-        tmpl: &str,
-        album_id: u64,
-        song_id: u64,
-        ext: &str,
-    ) -> Result<PathBuf, Error> {
-        let album = self.downloader.lib.get_album(album_id).ok_or_else(|| {
-            Error::new(
-                ErrorKind::UndefinedError,
-                format!("album {album_id} not found"),
-            )
-        })?;
-        let song = self.downloader.lib.get_song(song_id).ok_or_else(|| {
-            Error::new(
-                ErrorKind::UndefinedError,
-                format!("song {song_id} not found"),
-            )
-        })?;
-        self.render_song_path_with(tmpl, album, song, ext)
     }
 }
 

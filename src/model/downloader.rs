@@ -134,7 +134,7 @@ impl Downloader {
         let mut seen: HashSet<String> = HashSet::new();
         let mut ordered: Vec<(String, Url, String)> = Vec::new();
 
-        let mut push = |url: Url, label: String, seen: &mut HashSet<String>, out: &mut Vec<_>| {
+        let push = |url: Url, label: String, seen: &mut HashSet<String>, out: &mut Vec<_>| {
             let key = url.path().to_owned();
             if seen.insert(key.clone()) {
                 out.push((key, url, label));
@@ -234,6 +234,7 @@ pub struct AlbumResources {
     files: HashMap<String, PathBuf>,
 }
 
+#[allow(unused)]
 impl AlbumResources {
     /// 根据完整 URL 查询（自动忽略 host/query，只看 path）
     pub fn get(&self, url: &Url) -> Option<&Path> {
@@ -251,7 +252,6 @@ impl AlbumResources {
     }
 
     /// 取出（移动到目标位置）。适合渲染完模板、写出最终文件时调用。
-    /// 跨盘 rename 会失败，所以 copy+remove 兜底。
     pub fn copy_to(&mut self, url: &Url, dest: impl AsRef<Path>) -> std::io::Result<PathBuf> {
         let src = self
             .files

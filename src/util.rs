@@ -24,6 +24,7 @@ use url::Url;
 #[derive(Clone, PartialEq, Eq, Hash)]
 pub struct PrettyUrl(Url);
 
+#[allow(unused)]
 impl PrettyUrl {
     pub fn new(url: Url) -> Self {
         Self(url)
@@ -77,7 +78,7 @@ pub fn encode_base36(mut n: usize) -> String {
     String::from_utf8(buf).unwrap()
 }
 
-pub fn decode_base36(s: &str) -> Option<usize> {
+pub fn _decode_base36(s: &str) -> Option<usize> {
     let mut n: usize = 0;
     for ch in s.chars() {
         let c = ch.to_ascii_uppercase() as u8;
