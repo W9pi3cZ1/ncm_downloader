@@ -8,6 +8,7 @@ use std::{
 use cookie::time::{OffsetDateTime, UtcOffset};
 use indicatif::{MultiProgress, ProgressBar, ProgressStyle};
 use minijinja::{Environment, Error};
+use unicode_normalization::UnicodeNormalization;
 use serde::Serialize;
 use tokio::task::JoinSet;
 use url::Url;
@@ -533,5 +534,5 @@ fn sanitize(input: String) -> String {
             c => c,
         })
         .collect();
-    cleaned.trim().trim_end_matches('.').to_string()
+    cleaned.trim().trim_end_matches('.').nfc().collect()
 }
